@@ -1,11 +1,11 @@
-Next Year ▶
+◀ Previous Year \| Next Year ▶
  
-## preppin-data-challenge - 2021
+## preppin-data-challenge - 2022
 
 [Preppin' Data Challenge](https://preppindata.blogspot.com/) is a weekly challenge for learning to prepare data for analysis. This repo contains solutions using Python.
 
 
-### 2021 Challenge List
+### 2022 Challenge List
 
 <table>
   <tr>
@@ -23,9 +23,9 @@ Next Year ▶
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
-    <td><a href=" ">Week 13</a></td>
-    <td><a href=" ">Week 14</a></td>
-    <td><a href=" ">Week 15</a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
   </tr>
   <tr>
