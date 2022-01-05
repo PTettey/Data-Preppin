@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK1-Bike%20Sales.ipynb">Week 1</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2022/Week%201/WK1-Parental%20Contact%20Details.ipynb">Week 1</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
