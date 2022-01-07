@@ -36,7 +36,7 @@
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK21-Getting%20Trolleyed.ipynb">Week 21</a></td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK22-Answer%20Smash.ipynb">Week 22</a></td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK23-NPS%20for%20Airlines.ipynb">Week 23</a></td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK24-C%26BS%20Co%20Absence%20Monitoring.ipynb"> </a>Week 24</td>
   </tr>
   <tr>
     <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
