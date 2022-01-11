@@ -39,7 +39,7 @@
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK24-C%26BS%20Co%20Absence%20Monitoring.ipynb">Week 24</a></td>
   </tr>
   <tr>
-    <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK26-Rolling%20Weekly%20Revenue.ipynb">Week 26</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=" "> </a></td>
     <td><a href=" d"> </a></td>
     <td><a href=" "> </a></td>
