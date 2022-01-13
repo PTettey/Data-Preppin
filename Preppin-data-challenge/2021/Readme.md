@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK26-Rolling%20Weekly%20Revenue.ipynb">Week 26</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK27-NBA%20Draft%20Lottery%20calculator.ipynb">Week 27</a></td>
     <td><a href=" d"> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
