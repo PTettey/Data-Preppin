@@ -43,7 +43,7 @@
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK27-NBA%20Draft%20Lottery%20calculator.ipynb">Week 27</a></td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK28-Its%20coming%20Rome.ipynb">Week 28</a></td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">Week 29</a></td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK30-Lift%20Your%20Spirits.ipynb">Week 30</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td></td>
