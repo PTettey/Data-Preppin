@@ -14,7 +14,7 @@
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2022/Week%203/WK3-Passing%20Grades.ipynb">Week 3</a></td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2022/Week%204/WK4-Travel%20Plans.ipynb">Week 4</a></td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2022/Week%205/WK5-Setting%20Grades.ipynb">Week 5</a></td>
-    <td><a href=" "> </a></td>
+    <td><a href=" ">Week 6</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
   </tr>
