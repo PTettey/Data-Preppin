@@ -16,7 +16,7 @@
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2022/Week%205/WK5-Setting%20Grades.ipynb">Week 5</a></td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2022/Week%206/WK6%20-%207%20letter%20Scrabble%20words.ipynb">Week 6</a></td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2022/Week%207/WK7-Call%20Center%20Agent%20Metrics.ipynb"> Week 7</a></td>
-    <td><a href=" "> </a></td>
+    <td><a href=" "> </a>Week 8</td>
   </tr>
   <tr>
     <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
