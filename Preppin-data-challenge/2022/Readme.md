@@ -19,8 +19,8 @@
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2022/Week%208/WK8-PokeMOn%20Evolution%20Stats.ipynb">Week 8</a></td>
   </tr>
   <tr>
-    <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2022/Week%209/WK9-Customer%20Classifications.ipynb">Week 9</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><a href=" ">Week 10</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
