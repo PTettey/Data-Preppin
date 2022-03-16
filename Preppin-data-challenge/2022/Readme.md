@@ -21,7 +21,7 @@
   <tr>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2022/Week%209/WK9-Customer%20Classifications.ipynb">Week 9</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2022/Week%2010/WK10-The%20Bechdel%20Test.ipynb">Week 10</a></td>
-    <td><a href=" ">Week 11</a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%2011/WK11-Filling%20the%20Blanks.ipynb">Week 11</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
