@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <td><a href="https://https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2001/WK1-Parental%20Contact%20Details.ipynb">Week 1</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2001/WK1-Parental%20Contact%20Details.ipynb">Week 1</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2002/WK2-Birthday%20Cakes.ipynb">Week 2</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2003/WK3-Passing%20Grades.ipynb">Week 3</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2004/WK4-Travel%20Plans.ipynb">Week 4</a></td>
