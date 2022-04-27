@@ -26,7 +26,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2013/WK13-Pareto%20Parameters.ipynb">Week 13</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2014/WK14-House%20of%20Games%20Winners.ipynb">Week 14</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2015/WK15-Property%20Management.ipynb">Week 15</a></td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2016/WK16-Restaurant%20Orders.ipynb">Week 16</a></td>
   </tr>
   <tr>
     <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
