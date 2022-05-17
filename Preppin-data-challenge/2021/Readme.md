@@ -45,7 +45,7 @@
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">Week 29</a></td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK30-Lift%20Your%20Spirits.ipynb">Week 30</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2031/WK31-Excelling%20in%20Prep.ipynb">Week 31</a></td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2032/WK32-Excelling%20through%20aggregation.ipynb">Week 32</a></td>
     <td></td>
   </tr>
   <tr>
