@@ -29,7 +29,7 @@ Visit: https://preppindata.blogspot.com/ for the dataset and solutions to the Ch
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK11-Cocktails.ipynb">W11</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2011/WK11-Cocktails.ipynb">W11</a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
