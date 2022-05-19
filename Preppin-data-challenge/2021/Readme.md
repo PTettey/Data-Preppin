@@ -47,7 +47,6 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2031/WK31-Excelling%20in%20Prep.ipynb">Week 31</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2032/WK32-Excelling%20through%20aggregation.ipynb">Week 32</a></td>
    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2033/WK33-Excelling%20at%20adding%20one%20more%20row.ipynb">Week 33</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td></td>
   </tr>
   <tr>
     <td><a href=" ">Week 34</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
