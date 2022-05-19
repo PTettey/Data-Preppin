@@ -18,23 +18,7 @@ Visit: https://preppindata.blogspot.com/ for the dataset and solutions to the Ch
     <td><b>Function/Method/Concept</b></td>
     <td><b>Weeks Used</b></td>
   </tr>
-   
-  <tr>
-    <td>
-      Other
-    </td>
-    <td>
 
-```decimal``` module
-    </td>
-    <td>
-      <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2011/WK11-Cocktails.ipynb">W11</a>&nbsp;&nbsp;&nbsp;</span>
-      <b>2022:</b>&nbsp;
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
-  
   <tr>
     <td></td>
     <td>
@@ -44,9 +28,9 @@ list methods (```sort```, ```reverse```, ```append```, ```union```, etc.)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-31/README.md">W31</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-34/README.md">W34</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2031/WK31-Excelling%20in%20Prep.ipynb">W31</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -76,17 +60,17 @@ list/dict comprehension
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-30/README.md">W30</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-34/README.md">W34</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-37/README.md">W37</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-38/README.md">W38</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-41/README.md">W41</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-43/README.md">W43</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md">W45</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-46/README.md">W46</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-47/README.md">W47</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-48/README.md">W48</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md">W51</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-34/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-37/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-38/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-41/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-43/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-45/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-46/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-47/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-48/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-51/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
@@ -104,8 +88,8 @@ Loops
       <b>2021:</b>&nbsp;&nbsp;
       <span><a href="2021/preppin-data-2021-27/README.md">W27</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-33/README.md">W33</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-47/README.md">W47</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md">W51</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-47/README.md">W </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-51/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -122,10 +106,10 @@ Mapping values with dictionary
       <span"><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-30/README.md">W30</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-32/README.md">W32</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-34/README.md">W34</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-43/README.md">W43</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-47/README.md">W47</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-48/README.md">W48</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-34/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-43/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-47/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-48/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-02/README.md">W02</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-04/README.md">W04</a>&nbsp;&nbsp;&nbsp;</span>
@@ -144,7 +128,7 @@ unpacking a sequence ```*```
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-41/README.md">W41</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=" > </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -172,9 +156,9 @@ user input
       <span><a href="2021/preppin-data-2021-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-11/README.md">W11</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-24/README.md">W24</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-37/README.md">W37</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-43/README.md">W43</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-24/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-37/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-43/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
@@ -204,8 +188,8 @@ Cumulative aggregation(```cumcount```, ```cumsum```, etc.)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-49/README.md">W49</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-49/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-13/README.md">W13</a>&nbsp;&nbsp;&nbsp;</span> 
       <span><a href="2022/preppin-data-2022-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
@@ -232,14 +216,14 @@ Named Aggregation
       <span><a href="2021/preppin-data-2021-26/README.md">W26</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-30/README.md">W30</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-32/README.md">W32</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-34/README.md">W34</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md">W36</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-38/README.md">W38</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-46/README.md">W46</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-47/README.md">W47</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-49/README.md">W49</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md">W51</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-32/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-34/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-36/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-38/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-46/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-47/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-49/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-51/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-03/README.md">W03</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-04/README.md">W04</a>&nbsp;&nbsp;&nbsp;</span>
@@ -266,7 +250,7 @@ Named Aggregation
       <span><a href="2021/preppin-data-2021-21/README.md">W21</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-25/README.md">W25</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-47/README.md">W47</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-47/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-05/README.md">W05</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
@@ -300,10 +284,10 @@ Named Aggregation
       <span><a href="2021/preppin-data-2021-17/README.md">W17</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-21/README.md">W21</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-33/README.md">W33</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-35/README.md">W35</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-42/README.md">W42</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-49/README.md">W49</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-52/README.md">W52</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-35/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-42/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-49/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-52/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-02/README.md">W02</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-04/README.md">W04</a>&nbsp;&nbsp;&nbsp;</span>
@@ -347,8 +331,8 @@ Date Calculations
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-37/README.md">W37</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-37/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
@@ -368,11 +352,11 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
       <span><a href="2021/preppin-data-2021-18/README.md">W18</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-32/README.md">W32</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md">W36</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-42/README.md">W42</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-47/README.md">W47</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-49/README.md">W49</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-36/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-42/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-47/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-49/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-01/README.md">W01</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-02/README.md">W02</a>&nbsp;&nbsp;&nbsp;</span>
@@ -390,10 +374,10 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
     <td>
       <b>2021:</b>&nbsp;&nbsp;
       <span><a href="2021/preppin-data-2021-24/README.md">W24</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-37/README.md">W37</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-42/README.md">W42</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-44/README.md">W44</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-37/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-42/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-44/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-15/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -408,7 +392,7 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
       <span><a href="2021/preppin-data-2021-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-24/README.md">W24</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-49/README.md">W49</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-49/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -437,12 +421,12 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
       <span><a href="2021/preppin-data-2021-05/README.md">W05</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-26/README.md">W26</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-31/README.md">W31</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-32/README.md">W32</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-39/README.md">W39</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-42/README.md">W42</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-49/README.md">W49</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md">W51</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2031/WK31-Excelling%20in%20Prep.ipynb">W31</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-32/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-39/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-42/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-49/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-51/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-01/README.md">W01</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-02/README.md">W02</a>&nbsp;&nbsp;&nbsp;</span>
@@ -479,7 +463,7 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
       <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-30/README.md">W30</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-33/README.md">W33</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md">W45</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-45/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href=">W07</a>&nbsp;&nbsp;&nbsp;</span>
       <span title="Gender Pay Gap"><a href="2022/preppin-data-2022-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
@@ -521,7 +505,7 @@ Formatting numeric output
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-41/README.md">W41</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-41/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -536,12 +520,12 @@ Read Excel files (dynamic sheets)
       <b>2021:</b>&nbsp;&nbsp;
       <span><a href="2021/preppin-data-2021-21/README.md">W21</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-23/README.md">W23</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-33/README.md">W33</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md">W45</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-46/README.md">W46</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-33/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-45/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-46/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
-      <span><a href="2022/preppin-data-2022-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-07/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -569,7 +553,7 @@ Write multiple tabs to Excel file
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span title="Southend Stats"><a href="2021/preppin-data-2021-41/README.md">W41</a>&nbsp;&nbsp;&nbsp;</span>
+      <span title="Southend Stats"><a href="2021/preppin-data-2021-41/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -588,11 +572,11 @@ Write multiple tabs to Excel file
       <span><a href="2021/preppin-data-2021-25/README.md">W25</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-26/README.md">W26</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-33/README.md">W33</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-43/README.md">W43</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md">W45</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-46/README.md">W46</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-33/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-43/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-45/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-46/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
@@ -631,27 +615,27 @@ Write multiple tabs to Excel file
       <span><a href="2021/preppin-data-2021-26/README.md">W26</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-27/README.md">W27</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-34/README.md">W34</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-35/README.md">W35</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md">W36</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-38/README.md">W38</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-39/README.md">W39</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-42/README.md">W42</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md">W45</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-46/README.md">W46</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-47/README.md">W47</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-52/README.md">W52</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-34/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-35/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-36/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-38/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-39/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-42/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-45/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-46/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-47/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-52/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
-      <span><a href="2022/preppin-data-2022-03/README.md">W03</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-04/README.md">W04</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-08/README.md">W08</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-09/README.md">W09</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-17/README.md">W17</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-03/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-04/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-06/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-07/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-08/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-09/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-15/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-16/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-17/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -681,7 +665,7 @@ Write multiple tabs to Excel file
       <span><a href="2021/preppin-data-2021-11/README.md">W11</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-18/README.md">W18</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-42/README.md">W42</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-42/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-02/README.md">W02</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
@@ -696,11 +680,11 @@ Write multiple tabs to Excel file
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-45/README.md">W45</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-46/README.md">W46</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md">W51</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-52/README.md">W52</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-45/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-46/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-51/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-52/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-03/README.md">W03</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-04/README.md">W04</a>&nbsp;&nbsp;&nbsp;</span>
@@ -744,13 +728,13 @@ Write multiple tabs to Excel file
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-30/README.md">W30</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-32/README.md">W32</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-35/README.md">W35</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-44/README.md">W44</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md">W45</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-46/README.md">W46</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-48/README.md">W48</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md">W51</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-35/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-44/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-45/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-46/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-48/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-51/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
@@ -799,13 +783,13 @@ Write multiple tabs to Excel file
       <span><a href="2021/preppin-data-2021-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-13/README.md">W13</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-24/README.md">W24</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-39/README.md">W39</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-42/README.md">W42</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-44/README.md">W44</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-47/README.md">W47</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-48/README.md">W48</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-52/README.md">W52</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-39/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-42/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-44/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-47/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-48/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-52/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-11/README.md">W11</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
@@ -861,13 +845,13 @@ Write multiple tabs to Excel file
       <span><a href="2021/preppin-data-2021-26/README.md">W26</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-27/README.md">W27</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-30/README.md">W30</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md">W36</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-38/README.md">W38</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-39/README.md">W39</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-41/README.md">W41</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md">W45</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md">W51</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-38/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-39/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-41/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-45/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-51/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-09/README.md">W09</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
@@ -908,9 +892,9 @@ Write multiple tabs to Excel file
       <span><a href="2021/preppin-data-2021-24/README.md">W24</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-26/README.md">W26</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-37/README.md">W37</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md">W45</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-52/README.md">W52</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-37/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-45/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-52/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
@@ -933,12 +917,12 @@ Write multiple tabs to Excel file
       <span><a href="2021/preppin-data-2021-22/README.md">W22</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-25/README.md">W25</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-35/README.md">W35</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-38/README.md">W38</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-39/README.md">W39</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-41/README.md">W41</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-48/README.md">W48</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md">W51</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-35/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-38/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-39/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-41/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-48/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-51/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
@@ -966,12 +950,12 @@ Write multiple tabs to Excel file
       <span><a href="2021/preppin-data-2021-17/README.md">W17</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-27/README.md">W27</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-34/README.md">W34</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md">W36</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-43/README.md">W43</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-47/README.md">W47</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-48/README.md">W48</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-34/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-43/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-47/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-48/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-03/README.md">W03</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-04/README.md">W04</a>&nbsp;&nbsp;&nbsp;</span>
@@ -1046,11 +1030,11 @@ transpose ```T```
       <span><a href="2021/preppin-data-2021-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-17/README.md">W17</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-25/README.md">W25</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-43/README.md">W43</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md">W45</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-46/README.md">W46</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-48/README.md">W48</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-43/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-45/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-46/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-48/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-08/README.md">W08</a>&nbsp;&nbsp;&nbsp;</span>
@@ -1074,8 +1058,8 @@ transpose ```T```
       <span><a href="2021/preppin-data-2021-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-25/README.md">W25</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-35/README.md">W35</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md">W45</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-35/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-45/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
     </td>
@@ -1093,7 +1077,7 @@ transpose ```T```
       <span><a href="2021/preppin-data-2021-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-27/README.md">W27</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-48/README.md">W48</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-48/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
@@ -1110,7 +1094,7 @@ transpose ```T```
       <b>2021:</b>&nbsp;&nbsp;
       <span><a href="2021/preppin-data-2021-24/README.md">W24</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-30/README.md">W30</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md">W36</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -1155,17 +1139,17 @@ slicing a DataFrame
       <span><a href="2021/preppin-data-2021-27/README.md">W27</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-31/README.md">W31</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-33/README.md">W33</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-34/README.md">W34</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-35/README.md">W35</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md">W36</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-39/README.md">W39</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-40/README.md">W40</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md">W45</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-48/README.md">W48</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md">W51</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2031/WK31-Excelling%20in%20Prep.ipynb">W31</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-33/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-34/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-35/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-39/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-40/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-45/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-48/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-51/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-05/README.md">W05</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
@@ -1194,13 +1178,13 @@ Basic
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-30/README.md">W30</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-32/README.md">W32</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-34/README.md">W34</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md">W36</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-38/README.md">W38</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-40/README.md">W40</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-42/README.md">W42</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-49/README.md">W49</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md">W51</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-34/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-38/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-40/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-42/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-49/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-51/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-03/README.md">W03</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-04/README.md">W04</a>&nbsp;&nbsp;&nbsp;</span>
@@ -1237,12 +1221,12 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <span><a href="2021/preppin-data-2021-22/README.md">W22</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-44/README.md">W44</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md">W51</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-52/README.md">W52</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-44/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-51/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-52/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
-      <span><a href="2022/preppin-data-2022-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-06/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-10/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -1258,7 +1242,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <span><a href="2021/preppin-data-2021-22/README.md">W22</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-48/README.md">W48</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-48/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
     </td>
   </tr>
@@ -1272,8 +1256,8 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-47/README.md">W47</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-52/README.md">W52</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-47/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-52/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;&nbsp;
       <span><a href="2022/preppin-data-2022-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
     </td>
@@ -1322,10 +1306,10 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <span><a href="2021/preppin-data-2021-27/README.md">W27</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-34/README.md">W34</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md">W36</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-38/README.md">W38</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-48/README.md">W48</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-34/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-38/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-48/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-04/README.md">W04</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
@@ -1354,7 +1338,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <span><a href="2021/preppin-data-2021-19/README.md">W19</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-21/README.md">W21</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md">W45</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-45/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
     </td>
@@ -1371,8 +1355,8 @@ String slicing
       <span><a href="2021/preppin-data-2021-09/README.md">W09</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-33/README.md">W33</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md">W36</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-33/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-14/README.md">W14</a>&nbsp;&nbsp;&nbsp;</span>
     </td>
@@ -1395,9 +1379,9 @@ String slicing
       <span><a href="2021/preppin-data-2021-22/README.md">W22</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-43/README.md">W43</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-46/README.md">W46</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-52/README.md">W52</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-43/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-46/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-52/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -1424,7 +1408,7 @@ aggregate functions (e.g. ```sum```, ```max```)
     <td>
       <b>2021:</b>&nbsp;&nbsp;
       <span><a href="2021/preppin-data-2021-23/README.md">W23</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-47/README.md">W47</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-47/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -1444,18 +1428,18 @@ aggregate functions (e.g. ```sum```, ```max```)
       <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-32/README.md">W32</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-33/README.md">W33</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-34/README.md">W34</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-35/README.md">W35</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md">W36</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-39/README.md">W39</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-40/README.md">W40</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-41/README.md">W41</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-42/README.md">W42</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-43/README.md">W43</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-44/README.md">W44</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-47/README.md">W47</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-48/README.md">W48</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md">W50</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-34/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-35/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-39/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-40/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-41/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-42/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-43/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-44/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-47/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-48/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-50/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-01/README.md">W01</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-04/README.md">W04</a>&nbsp;&nbsp;&nbsp;</span>
