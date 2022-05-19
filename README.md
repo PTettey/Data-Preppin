@@ -38,7 +38,7 @@ list methods (```sort```, ```reverse```, ```append```, ```union```,```list```,``
     <td></td>
     <td>
 
-list/dict comprehension
+dict comprehension
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
@@ -78,20 +78,6 @@ list/dict comprehension
     </td>
   </tr>
   
-  <tr>
-    <td></td>
-    <td>
-
-Loops
-    </td>
-    <td>
-      <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-27/README.md">W27</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-33/README.md">W33</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-47/README.md">W </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
   
   <tr>
     <td></td>
@@ -120,17 +106,6 @@ Mapping values with dictionary
     </td>
   </tr>
   
-  <tr>
-    <td></td>
-    <td>
-
-unpacking a sequence ```*```
-    </td>
-    <td>
-      <b>2021:</b>&nbsp;&nbsp;
-      <span><a href=" " > </a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
   
   <tr>
     <td></td>
