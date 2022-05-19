@@ -11,8 +11,7 @@ Visit: https://preppindata.blogspot.com/ for the dataset and solutions to the Ch
 
 
 
-## <a id="python_index"></a>Python Function/Method Index &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span title="Return to table of contents"><a href="#contents">⬆️</a></span>
-
+## <a id="python_index"></a>Python Function/Method Index &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <table>
   <tr>
     <td><b>Category</b></td>
