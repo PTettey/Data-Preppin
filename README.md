@@ -11,53 +11,14 @@ Visit: https://preppindata.blogspot.com/ for the dataset and solutions to the Ch
 
 
 
-## <a id="python_index"></a>Python Function/Method Index &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### <a id="python_index"></a>Python Function &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <table>
   <tr>
     <td><b>Category</b></td>
     <td><b>Function/Method/Concept</b></td>
     <td><b>Weeks Used</b></td>
   </tr>
-  
-  <tr>
-    <td>
-      Charts
-    </td>
-    <td>
-
-Bokeh
-    </td>
-    <td>
-      <b>2020:</b>&nbsp;
-      <span title="C&BS Co: Political Monitoring"><a href="2020/preppin-data-2020-09/README.md">W09</a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
-  
-  <tr>
-    <td></td>
-    <td>
-
-matplotlib
-    </td>
-    <td>
-      <b>2021:</b>&nbsp;&nbsp;
-      <span title="Games Night Viz Collab"><a href="2021/preppin-data-2021-47/README.md">W47</a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
-  
-  <tr>
-    <td></td>
-    <td>
-
-Seaborn
-    </td>
-    <td>
-      <b>2021:</b>&nbsp;&nbsp;
-      <span title="New Year, New Challenge"><a href="2021/preppin-data-2021-01/README.md">W01</a>&nbsp;&nbsp;&nbsp;</span>
-      <span title="Malspanes Tourism"><a href="2021/preppin-data-2021-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
-  
+   
   <tr>
     <td>
       Other
@@ -68,9 +29,9 @@ Seaborn
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span title="Cocktail Profit Margins"><a href="2021/preppin-data-2021-11/README.md">W11</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK11-Cocktails.ipynb">W11</a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
-      <span title="7 Letter Scrabble Words"><a href="2022/preppin-data-2022-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
