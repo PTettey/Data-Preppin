@@ -24,12 +24,12 @@ Visit: https://preppindata.blogspot.com/ for the dataset and solutions to the Ch
     <td>
 
  
-list methods (```sort```, ```reverse```, ```append```, ```union```, etc.)
+list methods (```sort```, ```reverse```, ```append```, ```union```,```list```,```tolist```, etc.)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2031/WK31-Excelling%20in%20Prep.ipynb">W31</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK27-NBA%20Draft%20Lottery%20calculator.ipynb">W27</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">W29</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
