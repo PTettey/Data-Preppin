@@ -191,7 +191,7 @@ Boolean aggregation(```any```, ```all```)
     </td>
     <td>
       <b>2022:</b>&nbsp;
-      <span"><a href="2022/preppin-data-2022-14/README.md">W14</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-14/README.md">W14</a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>  
   
