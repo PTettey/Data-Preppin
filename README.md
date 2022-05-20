@@ -25,9 +25,6 @@ Visit: https://preppindata.blogspot.com/ for the dataset and solutions to the Ch
     </td>
     <td>
   
-  <tr>
-    <td></td>
-    <td>
 list methods (```sort```, ```reverse```, ```append```, ```union```,```list```,```tolist```, etc.)
     </td>
     <td>
@@ -128,17 +125,11 @@ user input
     </td>
   </tr>
  
-  
-      
-      
+       
  <tr>
    <td>
     Pandas - Aggregation
    </td>
-   <td>
-  
-    <tr>
-    <td></td>
    <td>
 
 Cumulative aggregation(```cumcount```, ```cumsum```, etc.)
