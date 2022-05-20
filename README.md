@@ -509,6 +509,27 @@ With ExcelFiles (dynamic sheets)
     </td>
   </tr>
   
+        
+    <tr>
+    <td></td>
+    <td>
+
+```groupby```
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2002/WK2-Bike%20Model%20Sales.ipynb">W02</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2006/WK6-Official%20Money.ipynb">W06</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2009/WK9-Working%20with%20strings.ipynb">W09</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2011/WK11-Cocktails.ipynb">W11</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2012/WK12-Maldives%20Tourism%20.ipynb">W12</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2014/WK14-Air%20In-Flight%20Purchases.ipynb">W14</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2015/WK15-Restaurant%20Menu%20and%20Orders.ipynb">W15</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2020/WK20-Controlling%20Complaints.ipynb">W20</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2023/WK23-NPS%20for%20Airlines.ipynb">W23</a>&nbsp;&nbsp;&nbsp;</span>
+    </td>
+  </tr>      
+        
   <tr>
     <td></td>
     <td>
@@ -695,7 +716,7 @@ With ExcelFiles (dynamic sheets)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-40/README.md">W40</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2031/WK31-Excelling%20in%20Prep.ipynb">W31</a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -707,16 +728,11 @@ With ExcelFiles (dynamic sheets)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-09/README.md">W09</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-11/README.md">W11</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-19/README.md">W19</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-22/README.md">W22</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-24/README.md">W24</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-26/README.md">W26</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-37/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2007/WK7-Vegan%20Shopping%20List.ipynb">W07</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2009/WK9-Working%20with%20strings.ipynb">W09</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2022/WK22-Answer%20Smash.ipynb">W22</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2024/WK24-C%26BS%20Co%20Absence%20Monitoring.ipynb">W24</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2026/WK26-Rolling%20Weekly%20Revenue.ipynb">W26</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-45/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-52/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
@@ -733,14 +749,13 @@ With ExcelFiles (dynamic sheets)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-09/README.md">W09</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-11/README.md">W11</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-17/README.md">W17</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-19/README.md">W19</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-22/README.md">W22</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-25/README.md">W25</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2002/WK2-Bike%20Model%20Sales.ipynb">W02</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2009/WK9-Working%20with%20strings.ipynb">W09</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2011/WK11-Cocktails.ipynb">W11</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2019/WK19-Prep%20Air%20Project%20Details.ipynb">W19</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2022/WK22-Answer%20Smash.ipynb">W22</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2029/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">W29</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-29/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-35/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-38/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-39/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
@@ -764,17 +779,16 @@ With ExcelFiles (dynamic sheets)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-03/README.md">W03</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-04/README.md">W04</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-14/README.md">W14</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-17/README.md">W17</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-27/README.md">W27</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-34/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2003/WK3-Bike%20Accessory%20Sales.ipynb">W03</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2004/WK4-Bike%20Sales%20Target.ipynb">W04</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2012/WK12-Maldives%20Tourism%20.ipynb">W12</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2014/WK14-Air%20In-Flight%20Purchases.ipynb">W14</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2015/WK15-Restaurant%20Menu%20and%20Orders.ipynb">W15</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2016/WK16-Super%20League.ipynb">W16</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2017/WK17-Timesheet%20checks.ipynb">W17</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2027/WK27-NBA%20Draft%20Lottery%20calculator.ipynb">W27</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2028/WK28-Its%20coming%20Rome.ipynb">W28</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2029/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">W29</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-43/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-47/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
@@ -799,14 +813,14 @@ With ExcelFiles (dynamic sheets)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-18/README.md">W18</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-23/README.md">W23</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-31/README.md">W31</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-39/README.md">W39</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-43/README.md">W43</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-44/README.md">W44</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2015/WK15-Restaurant%20Menu%20and%20Orders.ipynb">W15</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2018/WK18-Prep%20Air%20Project%20overuns.ipynb">W18</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2023/WK23-NPS%20for%20Airlines.ipynb">W23</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-31/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-39/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-43/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-44/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-18/README.md">W18</a>&nbsp;&nbsp;&nbsp;</span>
     </td>
@@ -820,21 +834,10 @@ With ExcelFiles (dynamic sheets)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2007/WK7-Vegan%20Shopping%20List.ipynb">W07</a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
-  <tr>
-    <td></td>
-    <td>
-
-transpose ```T```
-    </td>
-    <td>
-      <b>2022:</b>&nbsp;
-      <span><a href="2022/preppin-data-2022-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
   
   <tr>
     <td>
@@ -846,14 +849,14 @@ transpose ```T```
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-08/README.md">W08</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-14/README.md">W14</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-17/README.md">W17</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-25/README.md">W25</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2009/WK9-Working%20with%20strings.ipynb">W09</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2010/WK10-Pokemon%20Hierarchies.ipynb">W10</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2012/WK12-Maldives%20Tourism%20.ipynb")>W12</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2014/WK14-Air%20In-Flight%20Purchases.ipynb">W14</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2017/WK17-Timesheet%20checks.ipynb">W17</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2022/WK22-Answer%20Smash.ipynb">W22</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2029/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">W29</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-25/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-43/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-45/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-46/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
@@ -877,11 +880,11 @@ transpose ```T```
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-05/README.md">W05</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-25/README.md">W25</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2005/WK5-Dealing%20with%20Duplication.ipynb">W05</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2009/WK9-Working%20with%20strings.ipynb">W09</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2010/WK10-Pokemon%20Hierarchies.ipynb">W10</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2028/WK28-Its%20coming%20Rome.ipynb">W28</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-29/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-35/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-45/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
@@ -897,10 +900,10 @@ transpose ```T```
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-08/README.md">W08</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-27/README.md">W27</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2008/WK8-Karaoke%20Data.ipynb">W08</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2016/WK16-Super%20League.ipynb">W16</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-16/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-27/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-48/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
@@ -916,8 +919,8 @@ transpose ```T```
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-24/README.md">W24</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-30/README.md">W30</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2030/WK30-Lift%20Your%20Spirits.ipynb">W30</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-30/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
@@ -930,106 +933,12 @@ transpose ```T```
     </td>
     <td>
       <b>2022:</b>&nbsp;
-      <span><a href="2022/preppin-data-2022-08/README.md">W08</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-09/README.md">W09</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-14/README.md">W14</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-08/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-09/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-14/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
-  <tr>
-    <td></td>
-    <td>
-
-slicing a DataFrame
-    </td>
-    <td>
-      <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-01/README.md">W01</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-08/README.md">W08</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-09/README.md">W09</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-13/README.md">W13</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-14/README.md">W14</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-17/README.md">W17</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-19/README.md">W19</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-20/README.md">W20</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-21/README.md">W21</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-22/README.md">W22</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-23/README.md">W23</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-24/README.md">W24</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-25/README.md">W25</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-27/README.md">W27</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2031/WK31-Excelling%20in%20Prep.ipynb">W31</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-33/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-34/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-35/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-39/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-40/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-48/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-50/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <b>2022:</b>&nbsp;
-      <span><a href="2022/preppin-data-2022-05/README.md">W05</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-08/README.md">W08</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-13/README.md">W13</a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Rounding
-    </td>
-    <td>
-
-Basic
-    </td>
-    <td>
-      <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-02/README.md">W02</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-08/README.md">W08</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-11/README.md">W11</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-13/README.md">W13</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-14/README.md">W14</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-20/README.md">W20</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-30/README.md">W30</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-32/README.md">W32</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-34/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-38/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-40/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-42/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-49/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-51/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <b>2022:</b>&nbsp;
-      <span><a href="2022/preppin-data-2022-03/README.md">W03</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-04/README.md">W04</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-13/README.md">W13</a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
-  
-  <tr>
-    <td></td>
-    <td>
-
-Round Half Up
-    </td>
-    <td>
-      <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-09/README.md">W09</a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
   
   <tr>
     <td>
@@ -1041,11 +950,9 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-19/README.md">W19</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-22/README.md">W22</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-44/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2007/WK7-Vegan%20Shopping%20List.ipynb">W07</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2019/WK19-Prep%20Air%20Project%20Details.ipynb">W19</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2022/WK22-Answer%20Smash.ipynb">W22</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-51/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-52/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
@@ -1062,10 +969,14 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
     </td>
     <td>
       <b>2021:</b>&nbsp;
-      <span><a href="2021/preppin-data-2021-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-22/README.md">W22</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2009/WK9-Working%20with%20strings.ipynb">W09</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2010/WK10-Pokemon%20Hierarchies.ipynb">W10</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2016/WK16-Super%20League.ipynb">W16</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2022/WK22-Answer%20Smash.ipynb">W22</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-12/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-22/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-28/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-29/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-48/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
     </td>
@@ -1080,36 +991,33 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-47/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2012/WK12-Maldives%20Tourism%20.ipynb">W12</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-52/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;&nbsp;
-      <span><a href="2022/preppin-data-2022-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-16/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
+  
   
   <tr>
     <td></td>
     <td>
 
-```ljust``` / ```rjust```
-    </td>
-    <td>
-      <b>2020:</b>&nbsp;
-      <span><a href="2020/preppin-data-2020-02/README.md">W02</a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
-  
-  <tr>
-    <td></td>
-    <td>
-
-```match```
+```rename```
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2012/WK12-Maldives%20Tourism%20.ipynb">W12</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2013/WK13-Premier%20League%20Statistics.ipynb">W13</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2014/WK14-Air%20In-Flight%20Purchases.ipynb">W14</a>&nbsp;&nbsp;&nbsp;</span>  
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2018/WK18-Prep%20Air%20Project%20overuns.ipynb">W18</a>&nbsp;&nbsp;&nbsp;</span>  
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2023/WK23-NPS%20for%20Airlines.ipynb">W23</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2027/WK27-NBA%20Draft%20Lottery%20calculator.ipynb">W27</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2030/WK30-Lift%20Your%20Spirits.ipynb">W30</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2031/WK31-Excelling%20in%20Prep.ipynb">W31</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2032/WK32-Excelling%20through%20aggregation.ipynb">W32</a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;&nbsp;
-      <span><a href="2022/preppin-data-2022-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-16/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -1121,15 +1029,15 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-01/README.md">W01</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-02/README.md">W02</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-14/README.md">W14</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-19/README.md">W19</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-27/README.md">W27</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2002/WK2-Bike%20Model%20Sales.ipynb">W02</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2014/WK14-Air%20In-Flight%20Purchases.ipynb">W14</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2028/WK28-Its%20coming%20Rome.ipynb">W28</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-12/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-14/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-19/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-27/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-28/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-29/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-34/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-38/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
@@ -1141,73 +1049,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <span><a href="2022/preppin-data-2022-13/README.md">W13</a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
-  
-  <tr>
-    <td></td>
-    <td>
 
-```split```
-    </td>
-    <td>
-      <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-01/README.md">W01</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-03/README.md">W03</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-04/README.md">W04</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-07/README.md">W07</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-09/README.md">W09</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-11/README.md">W11</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-14/README.md">W14</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-19/README.md">W19</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-21/README.md">W21</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-45/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <b>2022:</b>&nbsp;
-      <span><a href="2022/preppin-data-2022-06/README.md">W06</a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
-  
-  <tr>
-    <td></td>
-    <td>
-
-String slicing
-    </td>
-    <td>
-      <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-09/README.md">W09</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-33/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <b>2022:</b>&nbsp;
-      <span><a href="2022/preppin-data-2022-14/README.md">W14</a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
-  
-  <tr>
-    <td></td>
-    <td>
-
-```strip```
-    </td>
-    <td>
-      <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-09/README.md">W09</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-13/README.md">W13</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-19/README.md">W19</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-21/README.md">W21</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-22/README.md">W22</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-29/README.md">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-43/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-46/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-52/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
   
   <tr>
     <td>
@@ -1215,24 +1057,29 @@ String slicing
     </td>
     <td>
 
-aggregate functions (e.g. ```sum```, ```max```)
-    </td>
-    <td>
-      <b>2020:</b>&nbsp;
-      <span><a href="2020/preppin-data-2020-08/README.md">W08</a>&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
-  
-  <tr>
-    <td></td>
-    <td>
 
 ```ceil``` / ```floor```
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-23/README.md">W23</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-23/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-47/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+    </td>
+  </tr>
+        
+  <tr>
+    <td></td>
+    <td>
+
+```isnumeric```,```isna```,```notnull```,
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2007/WK7-Vegan%20Shopping%20List.ipynb">W07</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2008/WK8-Karaoke%20Data.ipynb">W08</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2014/WK14-Air%20In-Flight%20Purchases.ipynb">W14</a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <span><a href="2022/preppin-data-2022-16/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -1244,14 +1091,14 @@ aggregate functions (e.g. ```sum```, ```max```)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="2021/preppin-data-2021-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-14/README.md">W14</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-15/README.md">W15</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-16/README.md">W16</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-20/README.md">W20</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-28/README.md">W28</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-32/README.md">W32</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2021/preppin-data-2021-33/README.md">W33</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2014/WK14-Air%20In-Flight%20Purchases.ipynb">W14</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2015/WK15-Restaurant%20Menu%20and%20Orders.ipynb">W15</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2016/WK16-Super%20League.ipynb">W16</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2033/WK33-Excelling%20at%20adding%20one%20more%20row.ipynb">W33</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-20/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-28/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-32/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2021/preppin-data-2021-33/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-34/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-35/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-36/README.md"></a>&nbsp;&nbsp;&nbsp;</span>
