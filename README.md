@@ -130,13 +130,16 @@ user input
   </tr>
  
   
-    <tr>
+      
+      
+  <tr>
+    <td></td>
     <td>
-      Pandas - Aggregation
+Pandas - Aggregation
     </td>
     <td>
   
-  
+    <tr>
     <td>
     </td>
     <td>
