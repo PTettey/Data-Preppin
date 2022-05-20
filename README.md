@@ -364,7 +364,7 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2033/WK33-Excelling%20at%20adding%20one%20more%20row.ipynb">W33</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2021/preppin-data-2021-45/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
-      <span><a href=">W07</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="">W07</a>&nbsp;&nbsp;&nbsp;</span>
       <span title="Gender Pay Gap"><a href="2022/preppin-data-2022-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
       <span title="Un-pivoting"><a href="2022/preppin-data-2022-18/README.md">W18</a>&nbsp;&nbsp;&nbsp;</span>
     </td>
@@ -479,33 +479,11 @@ With ExcelFiles (dynamic sheets)
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-03/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-04/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-06/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-07/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-08/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-09/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-15/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-16/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="2022/preppin-data-2022-17/README.md"> </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
