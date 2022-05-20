@@ -26,7 +26,6 @@ Visit: https://preppindata.blogspot.com/ for the dataset and solutions to the Ch
     <td>
   
   <tr>
-    <td></td>
     <td>
 
 list methods (```sort```, ```reverse```, ```append```, ```union```,```list```,```tolist```, etc.)
