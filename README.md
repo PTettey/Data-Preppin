@@ -488,7 +488,7 @@ With ExcelFiles (dynamic sheets)
   </tr>
   
         
-    <tr>
+  <tr>
     <td></td>
     <td>
 
@@ -829,7 +829,7 @@ With ExcelFiles (dynamic sheets)
       <b>2021:</b>&nbsp;&nbsp;
       <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2009/WK9-Working%20with%20strings.ipynb">W09</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2010/WK10-Pokemon%20Hierarchies.ipynb">W10</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2012/WK12-Maldives%20Tourism%20.ipynb")>W12</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2012/WK12-Maldives%20Tourism%20.ipynb">W12</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2014/WK14-Air%20In-Flight%20Purchases.ipynb">W14</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2017/WK17-Timesheet%20checks.ipynb">W17</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2022/WK22-Answer%20Smash.ipynb">W22</a>&nbsp;&nbsp;&nbsp;</span>
