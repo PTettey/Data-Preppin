@@ -290,7 +290,7 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
       <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" d"> </a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
   
@@ -691,7 +691,7 @@ With ExcelFiles (dynamic sheets)
       <b>2022:</b>&nbsp;
       <span><a href="2022/preppin-data-2022-09/README.md">W09</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-10/README.md">W10</a>&nbsp;&nbsp;&nbsp;</span>
-      <span"><a href="2022/preppin-data-2022-11/README.md">W11</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="2022/preppin-data-2022-11/README.md">W11</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-12/README.md">W12</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="2022/preppin-data-2022-13/README.md">W13</a>&nbsp;&nbsp;&nbsp;</span> 
     </td>
