@@ -240,9 +240,6 @@ Named Aggregation
     <td>
       Pandas - Dates
     </td>
-  
-  <tr>
-    <td></td>
     <td>
 
 Dateparts (```dt.month```, ```dt.quarter```, etc.)
