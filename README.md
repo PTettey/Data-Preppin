@@ -29,13 +29,13 @@ list methods (```sort```, ```reverse```, ```append```, ```union```,```list```,``
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK27-NBA%20Draft%20Lottery%20calculator.ipynb">W27</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">W29</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
+      <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK27-NBA%20Draft%20Lottery%20calculator.ipynb">W27</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">W29</a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;&nbsp;
-      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2009/WK9-Customer%20Classifications.ipynb">W09</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "> </a>&nbsp;&nbsp;&nbsp;</span>
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2009/WK9-Customer%20Classifications.ipynb">W09</a>&nbsp;&nbsp;&nbsp;
+      <a href=" "> </a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
@@ -47,12 +47,12 @@ dict comprehension
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK10-Pokemon%20Hierarchies.ipynb">W10</a>&nbsp;&nbsp;&nbsp;</span>
+      <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK10-Pokemon%20Hierarchies.ipynb">W10</a>&nbsp;&nbsp;&nbsp;
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
-      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2008/WK8-PokeMOn%20Evolution%20Stats.ipynb">W08</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2019/WK19-C%26BSCo%20Good%20Sales%20but%20Wrong%20Sizes.ipynb">W19</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2008/WK8-PokeMOn%20Evolution%20Stats.ipynb">W08</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2019/WK19-C%26BSCo%20Good%20Sales%20but%20Wrong%20Sizes.ipynb">W19</a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
@@ -65,10 +65,10 @@ dict comprehension
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2001/WK1-Bike%20Sales.ipynb">W01</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK13-Premier%20League%20Statistics.ipynb">W13</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK14-Air%20In-Flight%20Purchases.ipynb">W14</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">W29</a>&nbsp;&nbsp;&nbsp;</span>
+      <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2001/WK1-Bike%20Sales.ipynb">W01</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK13-Premier%20League%20Statistics.ipynb">W13</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK14-Air%20In-Flight%20Purchases.ipynb">W14</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">W29</a>&nbsp;&nbsp;&nbsp;
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
