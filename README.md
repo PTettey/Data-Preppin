@@ -247,7 +247,7 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
       <b>2021:</b>&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK24-C%26BS%20Co%20Absence%20Monitoring.ipynb">W24</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
-      ><a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
