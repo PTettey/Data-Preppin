@@ -255,7 +255,7 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
     <td></td>
     <td>
 
-```dt.strftime```,```dt.strptime```
+```dt.strftime``` / ```dt.strptime```
     </td>
     <td>
       <b>2022:</b>&nbsp;&nbsp;
@@ -564,7 +564,7 @@ With ExcelFiles (dynamic sheets)
     <td></td>
     <td>
 
-```reindex```,```PeriodIndex```
+```reindex``` / ```PeriodIndex```
     </td>
     <td>
       <b>2022:</b>&nbsp;&nbsp;
@@ -943,7 +943,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
     <td></td>
     <td>
 
-```isnumeric```,```isna```,```notnull```,
+```isnumeric``` / ```isna``` / ```notnull```
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
