@@ -880,7 +880,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
     <td></td>
     <td>
 
-```contains```, ```startswith```, ```endswith```,```isin``
+```contains```, ```startswith```, ```endswith```,```isin```
     </td>
     <td>
       <b>2021:</b>&nbsp;
