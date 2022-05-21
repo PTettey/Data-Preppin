@@ -301,8 +301,7 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;&nbsp;
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2015/WK15-Property%20Management.ipynb">W15</a>&nbsp;&nbsp;&nbsp;</span>
-      <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
-      
+      <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span> 
     </td>
   </tr>
   
