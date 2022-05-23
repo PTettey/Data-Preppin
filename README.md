@@ -983,7 +983,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2009/WK9-Customer%20Classifications.ipynb">W09</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2017/WK17-The%20Price%20of%20Streaming.ipynb">W17</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2019/WK19-C%26BSCo%20Good%20Sales%20but%20Wrong%20Sizes.ipynb">W19</a>&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2034/WK34-Excelling%20with%20lookups.ipynb">Week 34</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2034/WK34-Excelling%20with%20lookups.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
