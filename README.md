@@ -29,7 +29,7 @@ list methods (```sort```, ```reverse```, ```append```, ```union```,```list```,``
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK27-NBA%20Draft%20Lottery%20calculator.ipynb">W27</a>&nbsp;&nbsp;&nbsp;
+      <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK27-NBA%20Draft%20Lottery%20calculator.ipynb">W27</a>&nbsp;&nbsp;&nbsp;</span>
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">W29</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
