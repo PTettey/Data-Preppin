@@ -700,7 +700,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2028/WK28-Its%20coming%20Rome.ipynb">W28</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2029/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">W29</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2034/WK34-Excelling%20with%20lookups.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
-      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2003/WK3-Passing%20Grades.ipynb">W03</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2004/WK4-Travel%20Plans.ipynb">W04</a>&nbsp;&nbsp;&nbsp;
@@ -708,8 +708,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2016/WK16-Restaurant%20Orders.ipynb">W16</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2018/WK18-Un-pivoting.ipynb">W18</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2021/WK21-Multi%20sheets%20of%20madness.ipynb">W21</a>&nbsp;&nbsp;&nbsp;
-      
-      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
