@@ -31,11 +31,11 @@ list methods (```sort```, ```reverse```, ```append```, ```union```,```list```,``
       <b>2021:</b>&nbsp;&nbsp;
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2027/WK27-NBA%20Draft%20Lottery%20calculator.ipynb">W27</a>&nbsp;&nbsp;&nbsp;</span>
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2029/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">W29</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2034/WK34-Excelling%20with%20lookups.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2035/WK35-Picture%20Perfect.ipynb">W35</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2009/WK9-Customer%20Classifications.ipynb">W09</a>&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2034/WK34-Excelling%20with%20lookups.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
@@ -912,6 +912,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2002/WK2-Bike%20Model%20Sales.ipynb">W02</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2014/WK14-Air%20In-Flight%20Purchases.ipynb">W14</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2028/WK28-Its%20coming%20Rome.ipynb">W28</a>&nbsp;&nbsp;&nbsp;</span>
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2034/WK34-Excelling%20with%20lookups.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
@@ -922,7 +923,6 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2017/WK17-The%20Price%20of%20Streaming.ipynb">W17</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2018/WK18-Un-pivoting.ipynb">W18</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2019/WK19-C%26BSCo%20Good%20Sales%20but%20Wrong%20Sizes.ipynb">W19</a>&nbsp;&nbsp;&nbsp;</span>
-      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2034/WK34-Excelling%20with%20lookups.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
@@ -974,6 +974,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2015/WK15-Restaurant%20Menu%20and%20Orders.ipynb">W15</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2016/WK16-Super%20League.ipynb">W16</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2033/WK33-Excelling%20at%20adding%20one%20more%20row.ipynb">W33</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2034/WK34-Excelling%20with%20lookups.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
@@ -985,7 +986,8 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2009/WK9-Customer%20Classifications.ipynb">W09</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2017/WK17-The%20Price%20of%20Streaming.ipynb">W17</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2019/WK19-C%26BSCo%20Good%20Sales%20but%20Wrong%20Sizes.ipynb">W19</a>&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2034/WK34-Excelling%20with%20lookups.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;      
     </td>
   </tr>
 </table>
