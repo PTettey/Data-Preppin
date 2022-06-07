@@ -1,12 +1,13 @@
 # Preppin' Data Challenge
 This will include my codes on my quest to be better at data prepping. It will also include the codes for the Weekly [Data Prepping Challenge](https://preppindata.blogspot.com/).
 
-### Contents
-- Challenge years: [2022](https://github.com/PTettey/Data-Prepping/tree/main/Preppin-data-challenge/2022#readme) | 
+##<a id="Contents"></a>Contents
+* &nbsp;Challenge years:&nbsp;&nbsp; [2022](https://github.com/PTettey/Data-Prepping/tree/main/Preppin-data-challenge/2022#readme) | 
 [2021](https://github.com/PTettey/Data-Prepping/tree/main/Preppin-data-challenge/2021#readme)
 <br>
-- <a id="python_index"></a>Python Function)
-
+* &nbsp; [Python Function](#python_index)
+* &nbsp; Postgresql
+<br>
 
 
 
