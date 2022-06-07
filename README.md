@@ -5,7 +5,7 @@ This will include my codes on my quest to be better at data prepping. It will al
 * &nbsp;Challenge years:&nbsp;&nbsp; [2022](https://github.com/PTettey/Data-Prepping/tree/main/Preppin-data-challenge/2022#readme) | 
 [2021](https://github.com/PTettey/Data-Prepping/tree/main/Preppin-data-challenge/2021#readme)
 * ![download](https://user-images.githubusercontent.com/34336891/172423094-b5258d9c-4b53-40db-94bf-87ccb2b52939.jpg) &nbsp;[ Python Functions ](#python_index)
-* ![postgresql](https://user-images.githubusercontent.com/34336891/172422474-2e241f02-82b5-466d-b449-d194fa4441e3.png) &nbsp;Postgresql <br>
+* ![postgresql](https://user-images.githubusercontent.com/34336891/172422474-2e241f02-82b5-466d-b449-d194fa4441e3.png) &nbsp;[ Postgresql ](#postgre) <br>
 
 
 
@@ -986,6 +986,509 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2019/WK19-C%26BSCo%20Good%20Sales%20but%20Wrong%20Sizes.ipynb">W19</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;      
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+
+### <a id="postgre"></a>PostgreSQL Functions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<table>
+  <tr>
+    <td><b>Category</b></td>
+    <td><b>Function/Method/Concept</b></td>
+    <td><b>Weeks Used</b></td>
+  </tr>
+
+   <tr>
+    <td>
+      Querying Data
+    </td>
+    <td>
+  
+Column aliases 
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2001/Wk1_bike_sales">W1</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+Select Distinct
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+     
+ <tr>
+   <td>
+    Filtering Data
+   </td>
+   <td>
+
+Limit
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+Fetch
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+In / Between / Like / Is Null
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      Joining Multiple Tables
+    </td>
+    <td>
+
+Joins (```Inner Join```, ```Left Join```, ```Right Join``,etc.)
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+
+Other Joins(```Self_join``` , ```Cross Join``` , ```Natural join```)
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr> 
+ 
+  
+  <tr>
+    <td>
+      Grouping Data
+    </td>
+    <td>
+
+Group By 
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+Having
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      Set Operation
+    </td>
+    <td>
+
+Union
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+Intersect
+   </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+Except
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+        
+  <tr>
+    <td>
+      Grouping sets, Cube, and Rollup
+    </td>
+    <td>
+
+Grouping Sets
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+Cube
+   </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+Rollup
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+
+<tr>
+    <td>
+      Subquery
+    </td>
+    <td>
+
+ANY
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+ALL
+   </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+EXISTS
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+
+<tr>
+    <td>
+      Common Table Expressions (CTE)
+    </td>
+    <td>
+
+CTE
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2001/Wk1_bike_sales">W1</a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+ <tr>
+    <td>
+      Modifying Data
+    </td>
+    <td>
+
+Insert multiple rows
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+Update
+   </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+Update Join
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+Delete
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;</span> 
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      Managing Tables
+    </td>
+    <td>
+
+Select into and Create table as
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+ALTER
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+Change column data type
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+Truncate table
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  
+  <tr>
+    <td>
+      Conditional Expressions & Operators
+    </td>
+    <td>
+
+CASE
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2001/Wk1_bike_sales">W1</a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+COALESCE
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+CAST
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
