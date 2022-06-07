@@ -50,10 +50,3 @@ SELECT
 FROM
 	clean
 ORDER BY 1;
-
-
-
-
-
-
-
