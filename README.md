@@ -4,7 +4,7 @@ This will include my codes on my quest to be better at data prepping. It will al
 ## <a id="Contents"></a>Contents 
 * &nbsp;Challenge years:&nbsp;&nbsp; [2022](https://github.com/PTettey/Data-Prepping/tree/main/Preppin-data-challenge/2022#readme) | 
 [2021](https://github.com/PTettey/Data-Prepping/tree/main/Preppin-data-challenge/2021#readme)
-* 🐍 &nbsp;[ Python Functions ](#python_index)
+* ![download](https://user-images.githubusercontent.com/34336891/172423094-b5258d9c-4b53-40db-94bf-87ccb2b52939.jpg) &nbsp;[ Python Functions ](#python_index)
 * ![postgresql](https://user-images.githubusercontent.com/34336891/172422474-2e241f02-82b5-466d-b449-d194fa4441e3.png) &nbsp;Postgresql <br>
 
 
