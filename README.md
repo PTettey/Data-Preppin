@@ -1090,7 +1090,7 @@ In / Between / Like / Is Null
     </td>
     <td>
 
-Joins (```Inner Join```, ```Left Join```, ```Right Join``,etc.)
+Joins (```Inner Join```, ```Left Join```, ```Right Join```, etc.)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
@@ -1101,8 +1101,12 @@ Joins (```Inner Join```, ```Left Join```, ```Right Join``,etc.)
       <a href=""></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
+  
+  <tr>
+    <td></td>
+    <td>
 
-Other Joins(```Self_join``` , ```Cross Join``` , ```Natural join```)
+Other Joins( ```Self_join``` , ```Cross Join``` , ```Natural join``` )
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
@@ -1132,6 +1136,10 @@ Group By
       <a href=""></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
+  
+  <tr>
+    <td></td>
+    <td>
   
 Having
     </td>
