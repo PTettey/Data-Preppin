@@ -5,12 +5,12 @@ This will include my codes on my quest to be better at data prepping. It will al
 - Challenge years: [2022](https://github.com/PTettey/Data-Prepping/tree/main/Preppin-data-challenge/2022#readme) | 
 [2021](https://github.com/PTettey/Data-Prepping/tree/main/Preppin-data-challenge/2021#readme)
 <br>
-- [Python Functions](<a id="python_index"></a>Python Function &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+- <a id="python_index"></a>Python Function)
 
 
 
 
-### <a id="python_index"></a>Python Function &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### <a id="python_index"></a>Python Functions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <table>
   <tr>
     <td><b>Category</b></td>
