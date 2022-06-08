@@ -86,7 +86,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2001/Wk1_bike_sales">Week 1</a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2002/Wk2_bike_model_sales">Week 2</a></td>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
