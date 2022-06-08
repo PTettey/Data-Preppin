@@ -115,7 +115,7 @@
     <td><a href=""></a></td>
   </tr>
   <tr>
-    <td><a href="">Week 1</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><a href=""></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
