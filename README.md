@@ -1438,6 +1438,21 @@ Change column data type
     <td></td>
     <td>
 
+Temporary table
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2001/Wk1_bike_sales">W1</a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
 Truncate table
     </td>
     <td>
@@ -1489,6 +1504,56 @@ COALESCE
     <td>
 
 CAST
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      String Function
+    </td>
+    <td>
+
+CONCAT
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+LEFT / RIGHT
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href="ttps://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2001/Wk1_bike_sales">W1</a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
+LOWER
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
