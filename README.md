@@ -1163,7 +1163,7 @@ Union
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2003/WK3_bike_accessory_sales">W3</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;&nbsp;
       <a href=""></a>&nbsp;&nbsp;&nbsp;
@@ -1417,6 +1417,22 @@ ALTER
     </td>
   </tr>
   
+   <tr>
+    <td></td>
+    <td>
+
+ARRAY
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2003/WK3_bike_accessory_sales">W3</a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
   <tr>
     <td></td>
     <td>
@@ -1438,13 +1454,32 @@ Change column data type
     <td></td>
     <td>
 
+DATE
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2002/Wk2_bike_model_sales">W2</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2003/WK3_bike_accessory_sales">W3</a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+
 Temporary table
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2002/Wk2_bike_model_sales">W2</a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2003/WK3_bike_accessory_sales">W3</a>&nbsp;&nbsp;&nbsp;
       <a href=""></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
@@ -1553,6 +1588,26 @@ LEFT / RIGHT
     <td></td>
     <td>
 
+   <tr>
+    <td></td>
+    <td>
+
+SPLIT_PART
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2002/Wk2_bike_model_sales">W2</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2003/WK3_bike_accessory_sales">W3</a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>     
+      
 SUBSTRING
     </td>
     <td>
