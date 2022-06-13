@@ -607,7 +607,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2026/WK26-Rolling%20Weekly%20Revenue.ipynb">W26</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2027/WK27-NBA%20Draft%20Lottery%20calculator.ipynb">W27</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2030/WK30-Lift%20Your%20Spirits.ipynb">W30</a>&nbsp;&nbsp;&nbsp;
-      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2038/WK38-Trilogy.ipynb">W38</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
