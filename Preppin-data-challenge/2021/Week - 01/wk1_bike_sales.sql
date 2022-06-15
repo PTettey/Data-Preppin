@@ -1,71 +1,46 @@
-/*Preppin Data 2021: Bike Accessory Sales (week 3)
-- Input the data source by pulling together all the tables
-- Pivot 'New' columns and 'Existing' columns
-- Split the former column headers to form:
-  * Customer Type * Product
-- Rename the measure created by the Pivot as 'Products Sold'
-- Create a Store column from the data
-- Remove any unnecessary data fields
-- Turn Date into Quarter
-- Aggregate to form two separate outputs of the number of products sold by:
-  * Product, Quarter * Store, Customer Type, Product
-- Output each data set as a csv file*/
+/*Prepping Data Challenge: Bike Sales (week 1)
+This week's focus is on cleaning the dataset, and make them ready to answer some questions from our stakeholders.
+Requirement:
+1. Connect and load the csv file.
+2. Split the 'Store-Bike' field into 'Store' and 'Bike'
+3. Clean up the 'Bike' field to leave just three values in the 'Bike' field (Mountain, Gravel, Road)
+4. Create two different cuts of the date field: 'quarter' and 'day of month'
+5. Remove the first 10 orders as they are test values
+6. Output the data as a csv*/
+CREATE TABLE WK01_Bike_Sales (order_id serial,          --Connect and load the csv file
+							  customer_age numeric, 
+							  bike_value numeric, 
+							  existing_customer varchar(3), 
+							  order_date date, 
+							  Store_bike varchar(50));
 
----- Input the data source by pulling together all the tables
-CREATE TEMPORARY TABLE total_data AS
-SELECT *, 'birmingham' AS store FROM wk3_bas_birmingham
-UNION ALL
-SELECT *, 'leeds' AS store  FROM wk3_bas_leeds
-UNION ALL
-SELECT *, 'london'AS store  FROM wk3_bas_london
-UNION ALL
-SELECT *, 'manchester' AS store  FROM  wk3_bas_manchester
-UNION ALL
-SELECT *, 'york' AS store  FROM wk3_bas_york;
-SELECT * FROM total_data;
-
----- Pivot 'New' columns and 'Existing' columns
----- Rename the measure created by the Pivot as 'Products Sold'
-
-CREATE TEMPORARY TABLE pivot AS
+WITH clean AS (
+	SELECT
+		order_id,
+		customer_age,
+		bike_value,
+		existing_customer,
+		order_date,
+		date_part('quarter', order_date) AS qt, 		--Create two different cuts of the date field: 'quarter' and 'day of month' 
+		date_part('day', order_date) AS day_of_month, 	--Create two different cuts of the date field: 'quarter' and 'day of month' 
+		split_part(store_bike, ' - ', 1) AS store, 		--Split the 'Store-Bike' field into 'Store' and 'Bike'
+		split_part(store_bike, ' - ', 2) AS bike 		--Split the 'Store-Bike' field into 'Store' and 'Bike'
+	FROM
+		wk01_bike_sales
+	WHERE order_id > 10) 								--Remove the first 10 orders as they are test values
 SELECT
-	date,
+	qt,
 	store,
-	UNNEST(ARRAY['New - Saddles','New - Mudguards','New - Wheels','New - Bags','Existing - Saddles','Existing - Mudguards','Existing - Wheels','Existing - Bags']) AS  products_sold,
-	UNNEST(ARRAY[new_saddles, new_mudguards, new_wheels, new_bags, existing_saddles, existing_mudguards, existing_wheels, existing_bags]) AS  products_amount
-FROM total_data;
-SELECT * FROM pivot; 
-
--- Split products into Customer type and Product
-
-DROP TABLE IF EXISTS split ;
-CREATE TEMPORARY TABLE 	split AS
-SELECT
-    date,
-	split_part(products_sold,' - ', 1) AS customer_type,
-	split_part(products_sold,' - ', 2) AS product,
-	store,
-	products_amount
-FROM pivot;
-SELECT * FROM split;
-
----- Aggregate to form output of the number of products sold by: Product, Quarter
-
-SELECT
-	product,
-	date_part('quarter', date) AS Quarter,
-	SUM(products_amount) AS products_sold
-FROM split
-GROUP BY 1,2
-ORDER BY 1,2;
-
--- Aggregate to form output of the number of products sold by: Store, Customer Type, Product
-
-SELECT
-	store,
-	customer_type,
-	product,
-	SUM(products_amount) AS products_sold
-FROM split
-GROUP BY 1,2,3
-ORDER BY 1,2,3;
+	CASE
+		WHEN LEFT(bike, 1) = 'G' THEN 'Gravel'
+		WHEN LEFT(bike, 1) = 'M' THEN 'Mountain'
+		WHEN LEFT(bike, 1) = 'R' THEN 'Road'
+		ELSE 'Check'
+	END AS bike, 				-- Clean up the 'Bike' field to leave just three values in the 'Bike' field (Mountain, Gravel, Road) 
+	order_id,
+	customer_age,
+	bike_value,
+	existing_customer,
+	day_of_month
+FROM clean
+ORDER BY 1;
