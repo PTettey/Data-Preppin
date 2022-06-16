@@ -1097,7 +1097,7 @@ Joins (```Inner Join```, ```Left Join```, ```Right Join```, etc.)
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2004/Wk4_sales_target.pgsql">W4</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;&nbsp;
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2024/longest_flights.pgsql">W24</a>&nbsp;&nbsp;&nbsp;
       <a href=""></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
@@ -1316,7 +1316,7 @@ CTE
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2001/wk1_bike_sales.pgsql">W1</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2004/Wk4_sales_target.pgsql">W4</a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;&nbsp;
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2024/longest_flights.pgsql">W24</a>&nbsp;&nbsp;&nbsp;
       <a href=""></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
@@ -1590,6 +1590,27 @@ LEFT / RIGHT
     <td></td>
     <td>
 
+      
+ <tr>
+    <td></td>
+    <td>
+
+REGEXP_REPLACE
+    </td>
+    <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <b>2022:</b>&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2024/longest_flights.pgsql">W24</a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>      
+      
    <tr>
     <td></td>
     <td>
@@ -1617,7 +1638,7 @@ SUBSTRING
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2002/Wk2_bike_model_sales.pgsql">W2</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
-      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2024/longest_flights.pgsql">W24</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
