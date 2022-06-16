@@ -1585,11 +1585,6 @@ LEFT / RIGHT
       <a href=""></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
-  
-  <tr>
-    <td></td>
-    <td>
-
       
  <tr>
     <td></td>
@@ -1605,11 +1600,7 @@ REGEXP_REPLACE
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2024/longest_flights.pgsql">W24</a>&nbsp;&nbsp;&nbsp;
       <a href=""></a>&nbsp;&nbsp;&nbsp;
     </td>
-  </tr>
-  
-  <tr>
-    <td></td>
-    <td>      
+  </tr>  
       
    <tr>
     <td></td>
