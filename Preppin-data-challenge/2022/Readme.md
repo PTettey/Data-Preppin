@@ -39,7 +39,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2024/WK24-Longest%20flights.ipynb">Week 24</a></td>
   </tr>
   <tr>
-    <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><a href=" ">Week 25</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=" "> </a></td>
     <td><a href=" d"> </a></td>
     <td><a href=" "> </a></td>
