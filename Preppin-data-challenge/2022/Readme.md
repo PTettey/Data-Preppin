@@ -41,7 +41,7 @@
   <tr>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2025/WK25-Housing%20Happy%20Hotel%20Guests.ipynb">Week 25</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2026/WK26-Making%20Spotify%20Data%20Spotless.ipynb">Week 26</a></td>
-    <td><a href=" d"> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2027/WK27-C&BSCo%20Clean%20and%20Aggregate.ipynb">Week 27</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
