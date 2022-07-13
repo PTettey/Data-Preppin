@@ -285,7 +285,7 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2001/WK1-Parental%20Contact%20Details.ipynb">W01</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2002/WK2-Birthday%20Cakes.ipynb">W02</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2015/WK15-Property%20Management.ipynb">W15</a>&nbsp;&nbsp;&nbsp;
-      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2027/WK27-C%26BSCo%20Clean%20and%20Aggregate.ipynb">W27</a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
