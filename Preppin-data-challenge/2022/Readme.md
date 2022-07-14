@@ -34,7 +34,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2019/WK19-C%26BSCo%20Good%20Sales%20but%20Wrong%20Sizes.ipynb">Week 19</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2020/WK20-TC22%20Session%20Attendance.ipynb">Week 20</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2021/WK21-Multi%20sheets%20of%20madness.ipynb">Week 21</a></td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2022/WK22-Dungeons%20%26%20Dragons%20Critical%20Role.ipynb">Week 22</a></td>
     <td><a href=" d"> </a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2024/WK24-Longest%20flights.ipynb">Week 24</a></td>
   </tr>
