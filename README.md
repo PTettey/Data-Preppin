@@ -210,6 +210,8 @@ Named Aggregation
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2017/WK17-The%20Price%20of%20Streaming.ipynb">W17</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2026/WK26-Making%20Spotify%20Data%20Spotless.ipynb">W26</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2028/WK28-C%26BSCo%20-%20No%20sales%20today.ipynb">W28</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2029/WK29-C%26BSCo%20Meeting%20Targets.ipynb">W29</a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
@@ -442,6 +444,8 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2019/WK19-C%26BSCo%20Good%20Sales%20but%20Wrong%20Sizes.ipynb">W19</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2020/WK20-TC22%20Session%20Attendance.ipynb">W20</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2024/WK24-Longest%20flights.ipynb">W24</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2029/WK29-C%26BSCo%20Meeting%20Targets.ipynb">W29</a>&nbsp;&nbsp;&nbsp;
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
@@ -710,6 +714,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2016/WK16-Restaurant%20Orders.ipynb">W16</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2018/WK18-Un-pivoting.ipynb">W18</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2021/WK21-Multi%20sheets%20of%20madness.ipynb">W21</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2029/WK29-C%26BSCo%20Meeting%20Targets.ipynb">W29</a>&nbsp;&nbsp;&nbsp;
       <a href=""></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
@@ -794,6 +799,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2019/WK19-C%26BSCo%20Good%20Sales%20but%20Wrong%20Sizes.ipynb">W19</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2022/WK22-Dungeons%20%26%20Dragons%20Critical%20Role.ipynb">W22</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2028/WK28-C%26BSCo%20-%20No%20sales%20today.ipynb">W28</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2029/WK29-C%26BSCo%20Meeting%20Targets.ipynb">W29</a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
@@ -862,6 +868,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2006/WK6%20-%207%20letter%20Scrabble%20words.ipynb">W06</a>&nbsp;&nbsp;&nbsp;</span>
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2029/WK29-C%26BSCo%20Meeting%20Targets.ipynb">W29</a>&nbsp;&nbsp;&nbsp;
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
   </tr>
