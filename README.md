@@ -561,7 +561,7 @@ With ExcelFiles (dynamic sheets)
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2039/WK39-Painting%20Bikes.ipynb">W39</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
@@ -985,6 +985,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2016/WK16-Super%20League.ipynb">W16</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2033/WK33-Excelling%20at%20adding%20one%20more%20row.ipynb">W33</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2034/WK34-Excelling%20with%20lookups.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2039/WK39-Painting%20Bikes.ipynb">W39</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
