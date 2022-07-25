@@ -55,7 +55,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2036/WK36-What's%20Trendy.ipynb">Week 36</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2037/WK37-Re-looking%20at%20Phone%20Contract%20Revenue.ipynb">Week 37</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2038/WK38-Trilogy.ipynb">Week 38</a></td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2039/WK39-Painting%20Bikes.ipynb">week 39</a></td>
     <td><a href=" "> </a></td>
     <td></td>
   </tr>
