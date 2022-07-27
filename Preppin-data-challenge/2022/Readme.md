@@ -44,7 +44,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2027/WK27-C&BSCo%20Clean%20and%20Aggregate.ipynb">Week 27</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2028/WK28-C%26BSCo%20-%20No%20sales%20today.ipynb">Week 28</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2029/WK29-C%26BSCo%20Meeting%20Targets.ipynb">Week 29</a></td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2030/WK30-C%26BSCo%20Actual%20Sales%20Values.ipynb">Week 30</a></td>
     <td><a href=" "> </a></td>
     <td></td>
   </tr>
