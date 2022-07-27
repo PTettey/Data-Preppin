@@ -409,6 +409,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2007/WK7-Call%20Center%20Agent%20Metrics.ipynb">W07</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2012/WK12-Gender%20Pay%20Gap%20Bot.ipynb">W12</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2020/WK20-TC22%20Session%20Attendance.ipynb">W20</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2030/WK30-C%26BSCo%20Actual%20Sales%20Values.ipynb">W30</a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
@@ -521,6 +522,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2003/WK3-Passing%20Grades.ipynb">W03</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2012/WK12-Gender%20Pay%20Gap%20Bot.ipynb">W12</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2022/WK22-Dungeons%20%26%20Dragons%20Critical%20Role.ipynb">W22</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2030/WK30-C%26BSCo%20Actual%20Sales%20Values.ipynb">W30</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
     </td>
@@ -686,6 +688,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2012/WK12-Gender%20Pay%20Gap%20Bot.ipynb">W12</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2018/WK18-Un-pivoting.ipynb">W18</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2020/WK20-TC22%20Session%20Attendance.ipynb">W20</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2030/WK30-C%26BSCo%20Actual%20Sales%20Values.ipynb">W30</a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
