@@ -58,7 +58,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2038/WK38-Trilogy.ipynb">Week 38</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2039/WK39-Painting%20Bikes.ipynb">Week 39</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2040/WK40-Animal%20Adoption.ipynb">Week 40</a></td>
-    <td></td>   
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2041/WK41-Southend%20Stats.ipynb">Week 41</a></td>   
   </tr>
  
   <tr>
