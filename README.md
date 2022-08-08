@@ -1109,7 +1109,7 @@ In / Between / Like / Is Null
     </td>
     <td>
       <b>2021:</b>&nbsp;&nbsp;
-      <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
+      <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2013/Wk13_Premier_League_Statistics.pgsql">W13</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=""></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;&nbsp;
       <a href=""></a>&nbsp;&nbsp;&nbsp;
@@ -1532,6 +1532,7 @@ CASE
       <b>2021:</b>&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2001/wk1_bike_sales.pgsql">W1</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2006/Wk6_prize_money.pgsql">W6</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2013/Wk13_Premier_League_Statistics.pgsql">W13</a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
