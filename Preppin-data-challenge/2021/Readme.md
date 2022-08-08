@@ -98,7 +98,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2005/Wk5_dealing_with_duplications.pgsql">Week 5</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2006/Wk6_prize_money.pgsql">Week 6</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2007/vegan_list.pgsql">Week 7</a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2013/Wk13_Premier_League_Statistics.pgsql">Week 13</a></td>
   </tr>
   <tr>
    <td><a href=""></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
