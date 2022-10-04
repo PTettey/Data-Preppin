@@ -215,6 +215,7 @@ Named Aggregation
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2028/WK28-C%26BSCo%20-%20No%20sales%20today.ipynb">W28</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2029/WK29-C%26BSCo%20Meeting%20Targets.ipynb">W29</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2031/WK31-C%26BSCo%20Preppin%20Parameters.ipynb">W31</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2032/WK32-C%26BSCo%20Mortgage%20Repayments.ipynb">W32</a>&nbsp;&nbsp;&nbsp;
       <a href=""></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
@@ -258,6 +259,7 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2028/WK28-C%26BSCo%20-%20No%20sales%20today.ipynb">W28</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2032/WK32-C%26BSCo%20Mortgage%20Repayments.ipynb">W32</a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
@@ -676,6 +678,7 @@ With ExcelFiles (dynamic sheets)
       <b>2022:</b>&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2006/WK6%20-%207%20letter%20Scrabble%20words.ipynb">W06</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2022/WK22-Dungeons%20%26%20Dragons%20Critical%20Role.ipynb">W22</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2032/WK32-C%26BSCo%20Mortgage%20Repayments.ipynb">W32</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
