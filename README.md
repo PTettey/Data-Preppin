@@ -495,6 +495,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2008/WK8-Karaoke%20Data.ipynb">W08</a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2022/WK22-Dungeons%20%26%20Dragons%20Critical%20Role.ipynb">W22</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2033/WK33-C%26BSCo%20Next%20Sale.ipynb">W33</a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
@@ -536,6 +537,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2022/WK22-Dungeons%20%26%20Dragons%20Critical%20Role.ipynb">W22</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2023/WK23-PD%20x%20WOW%20Salesforce%20Opportunities.ipynb">W23</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2030/WK30-C%26BSCo%20Actual%20Sales%20Values.ipynb">W30</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2033/WK33-C%26BSCo%20Next%20Sale.ipynb">W33</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
     </td>
@@ -641,6 +643,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2016/WK16-Restaurant%20Orders.ipynb">W16</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2022/WK22-Dungeons%20%26%20Dragons%20Critical%20Role.ipynb">W22</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2031/WK31-C%26BSCo%20Preppin%20Parameters.ipynb">W31</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2033/WK33-C%26BSCo%20Next%20Sale.ipynb">W33</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;</span> 
     </td>
   </tr>
