@@ -204,7 +204,7 @@ Named Aggregation
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2035/WK35-Picture%20Perfect.ipynb">W35</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2034/WK34-Excelling%20with%20lookups.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2036/WK36-What's%20Trendy.ipynb">W36</a>&nbsp;&nbsp;&nbsp;
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2042/WK42-Charity%20fundraising.ipynb">W42</a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2002/WK2-Birthday%20Cakes.ipynb">W02</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2008/WK8-PokeMOn%20Evolution%20Stats.ipynb">W08</a>&nbsp;&nbsp;&nbsp;
@@ -256,6 +256,7 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2024/WK24-C%26BS%20Co%20Absence%20Monitoring.ipynb">W24</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2037/WK37-Re-looking%20at%20Phone%20Contract%20Revenue.ipynb">W37</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2041/WK41-Southend%20Stats.ipynb">W41</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2042/WK42-Charity%20fundraising.ipynb">W42</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2028/WK28-C%26BSCo%20-%20No%20sales%20today.ipynb">W28</a>&nbsp;&nbsp;&nbsp;
@@ -579,6 +580,7 @@ With ExcelFiles (dynamic sheets)
     <td>
       <b>2021:</b>&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2039/WK39-Painting%20Bikes.ipynb">W39</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2042/WK42-Charity%20fundraising.ipynb">W42</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
