@@ -181,7 +181,7 @@ Named Aggregation
     <td>
       <b>2021:</b>&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2023/WK23-NPS%20for%20Airlines.ipynb">W23</a>&nbsp;&nbsp;&nbsp;
-      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2043/WK43-Is%20that%20the%20case.ipynb">W43</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2006/WK6%20-%207%20letter%20Scrabble%20words.ipynb">W06</a>&nbsp;&nbsp;&nbsp;
@@ -415,6 +415,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2023/WK23-NPS%20for%20Airlines.ipynb">W23</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2026/WK26-Rolling%20Weekly%20Revenue.ipynb">W26</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2033/WK33-Excelling%20at%20adding%20one%20more%20row.ipynb">W33</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2043/WK43-Is%20that%20the%20case.ipynb">W43</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
