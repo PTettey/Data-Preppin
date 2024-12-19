@@ -1,0 +1,1424 @@
+Subject,Contact Type,Attendee,Contact
+Desktop,Direct Contact,Kate,Tim
+Prep,Direct Contact,Andy,Jack
+Prep,Direct Contact,Jack,Rosario
+Prep,Direct Contact,Jack,Jenny
+Prep,Direct Contact,Jack,Jonathan
+Prep,Direct Contact,Jack,Andy
+Data+Women,Direct Contact,Tom,Michael
+Data+Women,Direct Contact,Tom,Donna
+Data+Women,Direct Contact,Tom,Beth
+Data+Women,Direct Contact,Michael,Tom
+Prep,Direct Contact,Andy,Jonathan
+Data+Women,Direct Contact,Michael,Beth
+Data+Women,Direct Contact,Donna,Beth
+Data+Women,Direct Contact,Beth,Tom
+Data+Women,Direct Contact,Beth,Michael
+Data+Women,Direct Contact,Beth,Donna
+Desktop,Direct Contact,Rosario,Donna
+Desktop,Direct Contact,Rosario,Andy
+Desktop,Direct Contact,Rosario,Mo
+Desktop,Direct Contact,Donna,Rosario
+Desktop,Direct Contact,Donna,Andy
+Data+Women,Direct Contact,Donna,Tom
+Prep,Direct Contact,Andy,Jenny
+Prep,Direct Contact,Andy,Rosario
+Prep,Direct Contact,Jonathan,Jack
+Server,Direct Contact,Ravi,Owen
+Server,Direct Contact,Ravi,Sarah
+User Groups,Direct Contact,Tom,Sarah
+User Groups,Direct Contact,Tom,Anya
+User Groups,Direct Contact,Tom,Michael
+User Groups,Direct Contact,Sarah,Tom
+User Groups,Direct Contact,Sarah,Anya
+User Groups,Direct Contact,Anya,Tom
+User Groups,Direct Contact,Anya,Sarah
+User Groups,Direct Contact,Anya,Michael
+User Groups,Direct Contact,Michael,Tom
+User Groups,Direct Contact,Michael,Anya
+Prep,Direct Contact,Rosario,Jenny
+Prep,Direct Contact,Rosario,Jonathan
+Prep,Direct Contact,Rosario,Andy
+Prep,Direct Contact,Rosario,Jack
+Prep,Direct Contact,Jenny,Rosario
+Prep,Direct Contact,Jenny,Andy
+Prep,Direct Contact,Jenny,Jack
+Prep,Direct Contact,Jonathan,Rosario
+Prep,Direct Contact,Jonathan,Andy
+Desktop,Direct Contact,Donna,Mo
+Server,Direct Contact,Ravi,Will
+Desktop,Direct Contact,Andy,Rosario
+Desktop,Direct Contact,Andy,Mo
+Data+Women,Direct Contact,Jared,Donna
+Data+Women,Direct Contact,Jared,Jenny
+Data+Women,Direct Contact,Jared,Jonathan
+Data+Women,Direct Contact,Jared,Katie
+Data+Women,Direct Contact,Jenny,Donna
+Data+Women,Direct Contact,Jenny,Jared
+Data+Women,Direct Contact,Jenny,Jonathan
+Data+Women,Direct Contact,Jenny,Katie
+Data+Women,Direct Contact,Jonathan,Donna
+Data+Women,Direct Contact,Donna,Katie
+Data+Women,Direct Contact,Jonathan,Jared
+Data+Women,Direct Contact,Jonathan,Katie
+Data+Women,Direct Contact,Katie,Donna
+Data+Women,Direct Contact,Katie,Jared
+Data+Women,Direct Contact,Katie,Jenny
+Data+Women,Direct Contact,Katie,Jonathan
+Prep,Direct Contact,Kelly,Ravi
+Prep,Direct Contact,Kelly,Carl
+Prep,Direct Contact,Kelly,Oscar
+Prep,Direct Contact,Ravi,Kelly
+Data+Women,Direct Contact,Jonathan,Jenny
+Data+Women,Direct Contact,Donna,Jonathan
+Data+Women,Direct Contact,Donna,Jenny
+Data+Women,Direct Contact,Donna,Jared
+Desktop,Direct Contact,Mo,Rosario
+Desktop,Direct Contact,Mo,Donna
+Desktop,Direct Contact,Mo,Andy
+Server,Direct Contact,Owen,John
+Server,Direct Contact,Owen,Lorna
+Server,Direct Contact,Owen,Anya
+Server,Direct Contact,John,Owen
+Server,Direct Contact,John,Lorna
+Server,Direct Contact,John,Sarah
+Server,Direct Contact,John,Anya
+Server,Direct Contact,Lorna,Owen
+Server,Direct Contact,Lorna,John
+Server,Direct Contact,Lorna,Sarah
+Server,Direct Contact,Lorna,Anya
+Server,Direct Contact,Sarah,John
+Server,Direct Contact,Sarah,Lorna
+Server,Direct Contact,Sarah,Anya
+Server,Direct Contact,Anya,Owen
+Server,Direct Contact,Anya,John
+Server,Direct Contact,Anya,Lorna
+Server,Direct Contact,Anya,Sarah
+Desktop,Direct Contact,Andy,Donna
+Prep,Direct Contact,Carl,Kelly
+Server,Direct Contact,Sarah,Ravi
+Server,Direct Contact,Sarah,Will
+Prep,Direct Contact,Beth,Tom
+Prep,Direct Contact,Beth,Michael
+Prep,Direct Contact,Beth,Mo
+Prep,Direct Contact,Michael,Tom
+Prep,Direct Contact,Michael,Beth
+Prep,Direct Contact,Michael,Mo
+Prep,Direct Contact,Mo,Tom
+Prep,Direct Contact,Mo,Beth
+Prep,Direct Contact,Mo,Michael
+Prep,Direct Contact,Tom,Mo
+Desktop,Direct Contact,Kelly,Donna
+Desktop,Direct Contact,Kelly,Kirk
+Desktop,Direct Contact,Kelly,Sarah
+Desktop,Direct Contact,Donna,Kelly
+Desktop,Direct Contact,Donna,Sarah
+Desktop,Direct Contact,Shahzad,Kelly
+Desktop,Direct Contact,Shahzad,Sarah
+Desktop,Direct Contact,Kirk,Kelly
+Desktop,Direct Contact,Kirk,Sarah
+Desktop,Direct Contact,Sarah,Kelly
+Desktop,Direct Contact,Kelly,Shahzad
+Prep,Direct Contact,Tom,Michael
+Prep,Direct Contact,Tom,Beth
+Community,Direct Contact,Vani,Andy
+Server,Direct Contact,Diana,Oscar
+Server,Direct Contact,Diana,Lorna
+Server,Direct Contact,Oscar,Carl
+Server,Direct Contact,Oscar,Shahzad
+Server,Direct Contact,Oscar,Diana
+Server,Direct Contact,Oscar,Lorna
+Server,Direct Contact,Lorna,Carl
+Server,Direct Contact,Lorna,Shahzad
+Server,Direct Contact,Lorna,Diana
+Server,Direct Contact,Lorna,Oscar
+Community,Direct Contact,Rosario,Jonathan
+Community,Direct Contact,Rosario,Andy
+Community,Direct Contact,Rosario,Vani
+Community,Direct Contact,Jonathan,Rosario
+Community,Direct Contact,Jonathan,Andy
+Community,Direct Contact,Jonathan,Vani
+Community,Direct Contact,Andy,Rosario
+Community,Direct Contact,Andy,Jonathan
+Community,Direct Contact,Andy,Vani
+Community,Direct Contact,Vani,Rosario
+Community,Direct Contact,Vani,Jonathan
+Desktop,Direct Contact,Sarah,Donna
+Server,Direct Contact,Sarah,Owen
+Desktop,Direct Contact,Sarah,Shahzad
+User Groups,Direct Contact,Michael,Jonathan
+Server,Direct Contact,Diana,Rosario
+Server,Direct Contact,Lorna,Kate
+Server,Direct Contact,Lorna,Kelly
+Server,Direct Contact,Lorna,Rosario
+DataDev,Direct Contact,Kelly,Owen
+DataDev,Direct Contact,Kelly,Beth
+DataDev,Direct Contact,Kelly,Shahzad
+DataDev,Direct Contact,Owen,Kelly
+DataDev,Direct Contact,Owen,Beth
+Server,Direct Contact,Diana,Kelly
+DataDev,Direct Contact,Beth,Kelly
+DataDev,Direct Contact,Beth,Shahzad
+DataDev,Direct Contact,Shahzad,Kelly
+DataDev,Direct Contact,Shahzad,Beth
+Server,Direct Contact,Will,Owen
+Server,Direct Contact,Will,Sarah
+Server,Direct Contact,Will,Ravi
+Server,Direct Contact,Owen,Will
+Server,Direct Contact,Owen,Sarah
+Server,Direct Contact,Owen,Ravi
+DataDev,Direct Contact,Beth,Owen
+Server,Direct Contact,Diana,Kate
+Server,Direct Contact,Rosario,Lorna
+Server,Direct Contact,Rosario,Diana
+User Groups,Direct Contact,Michael,Vani
+User Groups,Direct Contact,Michael,Jack
+User Groups,Direct Contact,Jonathan,Michael
+User Groups,Direct Contact,Jonathan,Vani
+User Groups,Direct Contact,Jonathan,Jack
+User Groups,Direct Contact,Vani,Michael
+User Groups,Direct Contact,Vani,Jonathan
+User Groups,Direct Contact,Vani,Jack
+User Groups,Direct Contact,Jack,Michael
+User Groups,Direct Contact,Jack,Jonathan
+User Groups,Direct Contact,Jack,Vani
+Server,Direct Contact,Kate,Kelly
+Server,Direct Contact,Kate,Rosario
+Server,Direct Contact,Kate,Diana
+Server,Direct Contact,Kate,Lorna
+Server,Direct Contact,Kelly,Kate
+Server,Direct Contact,Kelly,Rosario
+Server,Direct Contact,Kelly,Diana
+Server,Direct Contact,Kelly,Lorna
+Server,Direct Contact,Rosario,Kate
+Server,Direct Contact,Rosario,Kelly
+Desktop,Direct Contact,Sarah,Kirk
+Prep,Direct Contact,Oscar,Kelly
+DataDev,Direct Contact,Kate,Jared
+DataDev,Direct Contact,Kate,David
+Prep,Direct Contact,Tim,Mo
+Prep,Direct Contact,Owen,Tim
+Prep,Direct Contact,Owen,Shahzad
+Prep,Direct Contact,Owen,Vani
+Prep,Direct Contact,Owen,Mo
+Prep,Direct Contact,Shahzad,Tim
+Prep,Direct Contact,Shahzad,Owen
+Prep,Direct Contact,Shahzad,Vani
+Prep,Direct Contact,Shahzad,Mo
+Prep,Direct Contact,Tim,Vani
+Prep,Direct Contact,Vani,Tim
+Prep,Direct Contact,Vani,Shahzad
+Prep,Direct Contact,Vani,Mo
+Prep,Direct Contact,Mo,Tim
+Prep,Direct Contact,Mo,Owen
+Prep,Direct Contact,Mo,Shahzad
+Prep,Direct Contact,Mo,Vani
+Desktop,Direct Contact,Kate,Carl
+Desktop,Direct Contact,Kate,Arsene
+Desktop,Direct Contact,Kate,Jonathan
+Prep,Direct Contact,Vani,Owen
+Prep,Direct Contact,Tim,Shahzad
+Prep,Direct Contact,Tim,Owen
+DataDev,Direct Contact,Jenny,Michael
+User Groups,Direct Contact,Rosario,Michael
+User Groups,Direct Contact,Rosario,Jared
+User Groups,Direct Contact,Rosario,Jonathan
+User Groups,Direct Contact,Jared,Kate
+User Groups,Direct Contact,Jared,Michael
+User Groups,Direct Contact,Jared,Rosario
+User Groups,Direct Contact,Jared,Jonathan
+User Groups,Direct Contact,Jonathan,Kate
+User Groups,Direct Contact,Jonathan,Rosario
+User Groups,Direct Contact,Jonathan,Jared
+DataDev,Direct Contact,Kelly,Tom
+DataDev,Direct Contact,Kelly,Michael
+DataDev,Direct Contact,Kelly,Jenny
+DataDev,Direct Contact,Tom,Kelly
+DataDev,Direct Contact,Tom,Michael
+DataDev,Direct Contact,Tom,Jenny
+DataDev,Direct Contact,Michael,Kelly
+DataDev,Direct Contact,Michael,Tom
+DataDev,Direct Contact,Michael,Jenny
+DataDev,Direct Contact,Jenny,Kelly
+DataDev,Direct Contact,Jenny,Tom
+Desktop,Direct Contact,Kate,David
+User Groups,Direct Contact,Rosario,Kate
+Desktop,Direct Contact,Carl,Kate
+Desktop,Direct Contact,Carl,Jonathan
+Data+Women,Direct Contact,Kate,Mo
+Data+Women,Direct Contact,Kelly,Kate
+Data+Women,Direct Contact,Kelly,John
+Data+Women,Direct Contact,Kelly,Mo
+Data+Women,Direct Contact,John,Kate
+Data+Women,Direct Contact,John,Kelly
+Data+Women,Direct Contact,John,Mo
+Data+Women,Direct Contact,Mo,Kate
+Data+Women,Direct Contact,Mo,Kelly
+Data+Women,Direct Contact,Kate,John
+Data+Women,Direct Contact,Mo,John
+Community,Direct Contact,Kelly,Ravi
+Community,Direct Contact,Jenny,Kelly
+Community,Direct Contact,Jenny,Jack
+Community,Direct Contact,Jenny,Ravi
+Community,Direct Contact,Jack,Jenny
+Community,Direct Contact,Jack,Ravi
+Community,Direct Contact,Ravi,Kelly
+Community,Direct Contact,Ravi,Jenny
+Community,Direct Contact,Ravi,Jack
+Community,Direct Contact,Kelly,Jenny
+Data+Women,Direct Contact,Kate,Kelly
+User Groups,Direct Contact,Lorna,Jared
+User Groups,Direct Contact,Lorna,Donna
+Desktop,Direct Contact,Carl,David
+Desktop,Direct Contact,Arsene,Kate
+Desktop,Direct Contact,Arsene,Carl
+Desktop,Direct Contact,Arsene,David
+Desktop,Direct Contact,Jonathan,Kate
+Desktop,Direct Contact,Jonathan,Carl
+Desktop,Direct Contact,Jonathan,David
+Desktop,Direct Contact,David,Kate
+Desktop,Direct Contact,David,Carl
+Desktop,Direct Contact,David,Arsene
+Desktop,Direct Contact,David,Jonathan
+User Groups,Direct Contact,Owen,Donna
+User Groups,Direct Contact,Owen,Jared
+User Groups,Direct Contact,Owen,Lorna
+User Groups,Direct Contact,Donna,Owen
+User Groups,Direct Contact,Donna,Jared
+User Groups,Direct Contact,Donna,Lorna
+User Groups,Direct Contact,Jared,Owen
+User Groups,Direct Contact,Jared,Donna
+User Groups,Direct Contact,Jared,Lorna
+User Groups,Direct Contact,Lorna,Owen
+Desktop,Direct Contact,Carl,Arsene
+User Groups,Direct Contact,Michael,Jared
+User Groups,Direct Contact,Michael,Rosario
+User Groups,Direct Contact,Michael,Kate
+Server,Direct Contact,Beth,Tom
+Server,Direct Contact,Beth,Will
+Server,Direct Contact,Beth,Owen
+Server,Direct Contact,Kate,Shahzad
+Server,Direct Contact,Kate,David
+Server,Direct Contact,Kelly,Jared
+Server,Direct Contact,Kelly,Shahzad
+Server,Direct Contact,Kelly,David
+Server,Direct Contact,Jared,Kate
+Server,Direct Contact,Owen,Beth
+Server,Direct Contact,Jared,Kelly
+Server,Direct Contact,Jared,David
+Server,Direct Contact,Shahzad,Kate
+Server,Direct Contact,Shahzad,Kelly
+Server,Direct Contact,Shahzad,Jared
+Server,Direct Contact,Shahzad,David
+Server,Direct Contact,David,Kate
+Server,Direct Contact,David,Kelly
+Server,Direct Contact,David,Jared
+Server,Direct Contact,David,Shahzad
+Server,Direct Contact,Jared,Shahzad
+Server,Direct Contact,Owen,Tom
+Server,Direct Contact,Will,Beth
+Server,Direct Contact,Will,Tom
+DataDev,Direct Contact,Kate,Lorna
+DataDev,Direct Contact,Kate,Sarah
+DataDev,Direct Contact,Jared,Kate
+DataDev,Direct Contact,Jared,David
+DataDev,Direct Contact,Jared,Lorna
+DataDev,Direct Contact,Jared,Sarah
+DataDev,Direct Contact,David,Kate
+DataDev,Direct Contact,David,Jared
+DataDev,Direct Contact,David,Lorna
+DataDev,Direct Contact,David,Sarah
+DataDev,Direct Contact,Lorna,Kate
+DataDev,Direct Contact,Lorna,Jared
+DataDev,Direct Contact,Lorna,David
+DataDev,Direct Contact,Lorna,Sarah
+DataDev,Direct Contact,Sarah,Kate
+DataDev,Direct Contact,Sarah,Jared
+DataDev,Direct Contact,Sarah,David
+DataDev,Direct Contact,Sarah,Lorna
+Server,Direct Contact,Tom,Will
+Server,Direct Contact,Tom,Owen
+Server,Direct Contact,Tom,Beth
+Community,Direct Contact,Kelly,Arsene
+Community,Direct Contact,Kelly,Anya
+Community,Direct Contact,Kelly,Jack
+Community,Direct Contact,Arsene,Kelly
+Community,Direct Contact,John,Sarah
+Desktop,Direct Contact,Jared,Mo
+Desktop,Direct Contact,Jared,Katie
+Desktop,Direct Contact,Mo,Jared
+Desktop,Direct Contact,Mo,Katie
+Desktop,Direct Contact,Mo,Lorna
+Desktop,Direct Contact,Mo,Kirk
+Desktop,Direct Contact,Katie,Jared
+Desktop,Direct Contact,Katie,Mo
+Desktop,Direct Contact,Katie,Lorna
+Desktop,Direct Contact,Katie,Kirk
+Desktop,Direct Contact,Lorna,Mo
+Desktop,Direct Contact,Lorna,Katie
+Desktop,Direct Contact,Lorna,Kirk
+Desktop,Direct Contact,Kirk,Mo
+Desktop,Direct Contact,Kirk,Katie
+Desktop,Direct Contact,Kirk,Lorna
+User Groups,Direct Contact,Kate,Michael
+User Groups,Direct Contact,Kate,Rosario
+User Groups,Direct Contact,Kate,Jared
+User Groups,Direct Contact,Kate,Jonathan
+Community,Direct Contact,John,Andy
+Server,Direct Contact,Diana,Shahzad
+Community,Direct Contact,John,Owen
+Community,Direct Contact,Sarah,John
+Community,Direct Contact,Arsene,Anya
+Community,Direct Contact,Arsene,Jack
+Community,Direct Contact,Anya,Kelly
+Community,Direct Contact,Anya,Arsene
+Community,Direct Contact,Anya,Jack
+Community,Direct Contact,Jack,Kelly
+Community,Direct Contact,Jack,Arsene
+Community,Direct Contact,Jack,Anya
+Community,Direct Contact,Will,Owen
+Community,Direct Contact,Will,Andy
+Community,Direct Contact,Will,Sarah
+Community,Direct Contact,Will,John
+Community,Direct Contact,Owen,Will
+Community,Direct Contact,Owen,Sarah
+Community,Direct Contact,Owen,John
+Community,Direct Contact,Andy,Will
+Community,Direct Contact,Andy,Sarah
+Community,Direct Contact,Andy,John
+Community,Direct Contact,Sarah,Will
+Community,Direct Contact,Sarah,Owen
+Community,Direct Contact,Sarah,Andy
+Community,Direct Contact,John,Will
+Server,Direct Contact,Diana,Carl
+Server,Direct Contact,Kate,Jared
+Server,Direct Contact,Shahzad,Oscar
+Data+Women,Direct Contact,Sarah,Tom
+Data+Women,Direct Contact,Sarah,Rosario
+Data+Women,Direct Contact,Sarah,Jared
+Data+Women,Direct Contact,Sarah,Ravi
+Data+Women,Direct Contact,Ravi,Tom
+Data+Women,Direct Contact,Ravi,Rosario
+Data+Women,Direct Contact,Ravi,Jared
+Data+Women,Direct Contact,Ravi,Sarah
+User Groups,Direct Contact,Tim,Jared
+Data+Women,Direct Contact,Jared,Ravi
+User Groups,Direct Contact,Tim,Jack
+User Groups,Direct Contact,Jared,Tim
+User Groups,Direct Contact,Jared,Jack
+User Groups,Direct Contact,Jared,Jenny
+User Groups,Direct Contact,Jack,Tim
+User Groups,Direct Contact,Jack,Jared
+User Groups,Direct Contact,Jack,Jenny
+User Groups,Direct Contact,Jenny,Tim
+User Groups,Direct Contact,Jenny,Jared
+User Groups,Direct Contact,Jenny,Jack
+User Groups,Direct Contact,Tim,Jenny
+Data+Women,Direct Contact,Jared,Sarah
+Data+Women,Direct Contact,Jared,Rosario
+Data+Women,Direct Contact,Jared,Tom
+Prep,Direct Contact,Oscar,Jenny
+DataDev,Direct Contact,Kelly,Jonathan
+DataDev,Direct Contact,Kelly,Andy
+DataDev,Direct Contact,Kelly,Mo
+DataDev,Direct Contact,Jonathan,Kelly
+DataDev,Direct Contact,Jonathan,Andy
+DataDev,Direct Contact,Jonathan,Mo
+DataDev,Direct Contact,Andy,Kelly
+DataDev,Direct Contact,Andy,Jonathan
+DataDev,Direct Contact,Andy,Mo
+DataDev,Direct Contact,Mo,Kelly
+DataDev,Direct Contact,Mo,Jonathan
+DataDev,Direct Contact,Mo,Andy
+Data+Women,Direct Contact,Tom,Rosario
+Data+Women,Direct Contact,Tom,Jared
+Data+Women,Direct Contact,Tom,Sarah
+Data+Women,Direct Contact,Tom,Ravi
+Data+Women,Direct Contact,Rosario,Tom
+Data+Women,Direct Contact,Rosario,Jared
+Data+Women,Direct Contact,Rosario,Sarah
+Data+Women,Direct Contact,Rosario,Ravi
+Community,Direct Contact,Will,Beth
+Prep,Direct Contact,Oscar,Jonathan
+Community,Direct Contact,Will,Diana
+Community,Direct Contact,Will,Anya
+Server,Direct Contact,Donna,Rosario
+Server,Direct Contact,Donna,Jonathan
+Server,Direct Contact,Donna,John
+Server,Direct Contact,Jonathan,Tim
+Server,Direct Contact,Jonathan,Rosario
+Server,Direct Contact,Jonathan,Donna
+Server,Direct Contact,Jonathan,John
+Server,Direct Contact,John,Tim
+Server,Direct Contact,John,Rosario
+Server,Direct Contact,Donna,Tim
+Server,Direct Contact,John,Donna
+Desktop,Direct Contact,Michael,Jared
+Desktop,Direct Contact,Michael,Jenny
+Desktop,Direct Contact,Michael,Lorna
+Desktop,Direct Contact,Michael,Sarah
+Desktop,Direct Contact,Jared,Michael
+Desktop,Direct Contact,Jared,Jenny
+Desktop,Direct Contact,Jared,Lorna
+Desktop,Direct Contact,Jared,Sarah
+Desktop,Direct Contact,Jenny,Michael
+Server,Direct Contact,John,Jonathan
+Server,Direct Contact,Rosario,John
+Server,Direct Contact,Rosario,Jonathan
+Server,Direct Contact,Rosario,Donna
+Community,Direct Contact,Beth,Will
+Community,Direct Contact,Beth,Diana
+Community,Direct Contact,Beth,Mo
+Community,Direct Contact,Beth,Anya
+Community,Direct Contact,Diana,Will
+Community,Direct Contact,Diana,Beth
+Community,Direct Contact,Diana,Mo
+Community,Direct Contact,Diana,Anya
+Community,Direct Contact,Mo,Will
+Community,Direct Contact,Mo,Beth
+Community,Direct Contact,Mo,Diana
+Community,Direct Contact,Mo,Anya
+Community,Direct Contact,Anya,Will
+Community,Direct Contact,Anya,Beth
+Community,Direct Contact,Anya,Diana
+Community,Direct Contact,Anya,Mo
+Server,Direct Contact,Tim,Rosario
+Server,Direct Contact,Tim,Donna
+Server,Direct Contact,Tim,Jonathan
+Server,Direct Contact,Tim,John
+Server,Direct Contact,Rosario,Tim
+Community,Direct Contact,Will,Mo
+Desktop,Direct Contact,Jenny,Jared
+Prep,Direct Contact,Oscar,Jared
+Prep,Direct Contact,Jenny,Oscar
+Prep,Direct Contact,Shahzad,Jonathan
+Prep,Direct Contact,Shahzad,John
+Prep,Direct Contact,Shahzad,Ravi
+Prep,Direct Contact,Jonathan,Will
+Prep,Direct Contact,Jonathan,Shahzad
+Prep,Direct Contact,Jonathan,John
+Prep,Direct Contact,Jonathan,Ravi
+Prep,Direct Contact,John,Will
+Prep,Direct Contact,John,Shahzad
+Prep,Direct Contact,Shahzad,Will
+Prep,Direct Contact,John,Jonathan
+Prep,Direct Contact,Ravi,Will
+Prep,Direct Contact,Ravi,Shahzad
+Prep,Direct Contact,Ravi,Jonathan
+Prep,Direct Contact,Ravi,John
+Prep,Direct Contact,Kate,Kelly
+Prep,Direct Contact,Kate,Donna
+Prep,Direct Contact,Kate,Diana
+Prep,Direct Contact,Kate,Sarah
+Prep,Direct Contact,Kelly,Kate
+Prep,Direct Contact,John,Ravi
+Prep,Direct Contact,Will,Ravi
+Prep,Direct Contact,Will,John
+Prep,Direct Contact,Will,Jonathan
+Server,Direct Contact,Shahzad,Lorna
+Desktop,Direct Contact,Kate,Andy
+Desktop,Direct Contact,Kate,Diana
+Desktop,Direct Contact,Kate,Anya
+Desktop,Direct Contact,Tim,Kate
+Desktop,Direct Contact,Tim,Andy
+Desktop,Direct Contact,Tim,Diana
+Desktop,Direct Contact,Tim,Anya
+Desktop,Direct Contact,Andy,Kate
+Desktop,Direct Contact,Andy,Tim
+Desktop,Direct Contact,Andy,Diana
+Desktop,Direct Contact,Andy,Anya
+Desktop,Direct Contact,Diana,Kate
+Desktop,Direct Contact,Diana,Tim
+Desktop,Direct Contact,Diana,Andy
+Desktop,Direct Contact,Diana,Anya
+Desktop,Direct Contact,Anya,Kate
+Desktop,Direct Contact,Anya,Tim
+Desktop,Direct Contact,Anya,Andy
+Desktop,Direct Contact,Anya,Diana
+Prep,Direct Contact,Will,Shahzad
+Prep,Direct Contact,Kelly,Donna
+Prep,Direct Contact,Oscar,Carl
+Prep,Direct Contact,Kelly,Diana
+Prep,Direct Contact,Donna,Kate
+Desktop,Direct Contact,John,Jonathan
+Desktop,Direct Contact,John,Kirk
+Desktop,Direct Contact,Kirk,Beth
+Desktop,Direct Contact,Kirk,Arsene
+Desktop,Direct Contact,Kirk,Jonathan
+Desktop,Direct Contact,Kirk,John
+Prep,Direct Contact,Carl,Jared
+Prep,Direct Contact,Carl,Jonathan
+Prep,Direct Contact,Carl,Jenny
+Desktop,Direct Contact,John,Arsene
+Prep,Direct Contact,Jared,Carl
+Prep,Direct Contact,Jared,Jenny
+Prep,Direct Contact,Jared,Oscar
+Prep,Direct Contact,Jonathan,Carl
+Prep,Direct Contact,Jonathan,Jared
+Prep,Direct Contact,Jonathan,Jenny
+Prep,Direct Contact,Jonathan,Oscar
+Prep,Direct Contact,Jenny,Carl
+Prep,Direct Contact,Jenny,Jared
+Prep,Direct Contact,Jenny,Jonathan
+Prep,Direct Contact,Jared,Jonathan
+Desktop,Direct Contact,John,Beth
+Desktop,Direct Contact,Jonathan,Kirk
+Desktop,Direct Contact,Jonathan,John
+Prep,Direct Contact,Donna,Kelly
+Prep,Direct Contact,Donna,Diana
+Prep,Direct Contact,Donna,Sarah
+Prep,Direct Contact,Diana,Kate
+Prep,Direct Contact,Diana,Kelly
+Prep,Direct Contact,Diana,Donna
+Prep,Direct Contact,Diana,Sarah
+Prep,Direct Contact,Sarah,Kate
+Prep,Direct Contact,Sarah,Kelly
+Prep,Direct Contact,Sarah,Donna
+Prep,Direct Contact,Sarah,Diana
+Desktop,Direct Contact,Beth,Arsene
+Desktop,Direct Contact,Beth,Jonathan
+Desktop,Direct Contact,Beth,John
+Desktop,Direct Contact,Beth,Kirk
+Desktop,Direct Contact,Arsene,Beth
+Desktop,Direct Contact,Arsene,Jonathan
+Desktop,Direct Contact,Arsene,John
+Desktop,Direct Contact,Arsene,Kirk
+Desktop,Direct Contact,Jonathan,Beth
+Desktop,Direct Contact,Jonathan,Arsene
+Prep,Direct Contact,Kelly,Sarah
+Desktop,Direct Contact,Jenny,Lorna
+Prep,Direct Contact,Carl,Oscar
+Desktop,Direct Contact,Lorna,Michael
+Prep,Direct Contact,David,Carl
+Prep,Direct Contact,David,Oscar
+Prep,Direct Contact,Diana,David
+Prep,Direct Contact,Diana,Ravi
+Prep,Direct Contact,Diana,Carl
+Prep,Direct Contact,Diana,Oscar
+Prep,Direct Contact,Ravi,David
+Prep,Direct Contact,Ravi,Diana
+Prep,Direct Contact,Ravi,Carl
+Prep,Direct Contact,David,Ravi
+Prep,Direct Contact,Ravi,Oscar
+Prep,Direct Contact,Carl,Diana
+Prep,Direct Contact,Carl,Ravi
+Prep,Direct Contact,Oscar,David
+Prep,Direct Contact,Oscar,Diana
+Prep,Direct Contact,Oscar,Ravi
+User Groups,Direct Contact,Donna,David
+User Groups,Direct Contact,Donna,John
+User Groups,Direct Contact,Donna,Kirk
+User Groups,Direct Contact,David,Donna
+Prep,Direct Contact,Carl,David
+Prep,Direct Contact,David,Diana
+Desktop,Direct Contact,Kirk,Shahzad
+Desktop,Direct Contact,Kirk,Jared
+User Groups,Direct Contact,Sarah,Michael
+User Groups,Direct Contact,Sarah,Jenny
+User Groups,Direct Contact,Sarah,Katie
+Desktop,Direct Contact,Will,Donna
+Desktop,Direct Contact,Will,Jared
+Desktop,Direct Contact,Will,Shahzad
+Desktop,Direct Contact,Will,Kirk
+Desktop,Direct Contact,Donna,Will
+Desktop,Direct Contact,Donna,Jared
+Desktop,Direct Contact,Donna,Shahzad
+Desktop,Direct Contact,Donna,Kirk
+Desktop,Direct Contact,Jared,Will
+Desktop,Direct Contact,Jared,Donna
+Desktop,Direct Contact,Jared,Shahzad
+Desktop,Direct Contact,Jared,Kirk
+Desktop,Direct Contact,Shahzad,Will
+Desktop,Direct Contact,Shahzad,Donna
+Desktop,Direct Contact,Shahzad,Jared
+Desktop,Direct Contact,Shahzad,Kirk
+Desktop,Direct Contact,Kirk,Will
+Desktop,Direct Contact,Kirk,Donna
+User Groups,Direct Contact,David,John
+User Groups,Direct Contact,David,Kirk
+User Groups,Direct Contact,John,Donna
+User Groups,Direct Contact,John,David
+DataDev,Direct Contact,Jonathan,Shahzad
+DataDev,Direct Contact,Mo,Michael
+Data+Women,Direct Contact,Tom,Owen
+Data+Women,Direct Contact,Tom,John
+Data+Women,Direct Contact,Tom,Anya
+Data+Women,Direct Contact,Owen,Tom
+Data+Women,Direct Contact,Owen,John
+Data+Women,Direct Contact,Owen,Anya
+Data+Women,Direct Contact,John,Tom
+Data+Women,Direct Contact,John,Owen
+Data+Women,Direct Contact,John,Anya
+Data+Women,Direct Contact,Anya,Tom
+Data+Women,Direct Contact,Anya,Owen
+Data+Women,Direct Contact,Anya,John
+Server,Direct Contact,Carl,Shahzad
+Server,Direct Contact,Carl,Diana
+Server,Direct Contact,Carl,Oscar
+Server,Direct Contact,Carl,Lorna
+Server,Direct Contact,Shahzad,Carl
+Desktop,Direct Contact,Jenny,Sarah
+Server,Direct Contact,Shahzad,Diana
+DataDev,Direct Contact,Jonathan,Michael
+User Groups,Direct Contact,Sarah,Will
+DataDev,Direct Contact,Jonathan,Owen
+DataDev,Direct Contact,Shahzad,Michael
+User Groups,Direct Contact,John,Kirk
+User Groups,Direct Contact,Kirk,Donna
+User Groups,Direct Contact,Kirk,David
+Server,Direct Contact,Arsene,Kirk
+Server,Direct Contact,Arsene,Mo
+Server,Direct Contact,Arsene,Ravi
+Server,Direct Contact,Kirk,Arsene
+Server,Direct Contact,Kirk,Mo
+Server,Direct Contact,Kirk,Ravi
+Server,Direct Contact,Mo,Arsene
+Server,Direct Contact,Mo,Kirk
+Server,Direct Contact,Mo,Ravi
+Server,Direct Contact,Ravi,Arsene
+Server,Direct Contact,Ravi,Kirk
+Server,Direct Contact,Ravi,Mo
+DataDev,Direct Contact,Owen,Michael
+DataDev,Direct Contact,Owen,Jonathan
+DataDev,Direct Contact,Michael,Owen
+DataDev,Direct Contact,Michael,Shahzad
+DataDev,Direct Contact,Michael,Jonathan
+DataDev,Direct Contact,Michael,Mo
+DataDev,Direct Contact,Shahzad,Jonathan
+User Groups,Direct Contact,Katie,Sarah
+User Groups,Direct Contact,Kirk,John
+User Groups,Direct Contact,Katie,Michael
+Data+Women,Direct Contact,Anya,Diana
+Data+Women,Direct Contact,Anya,Mo
+Community,Direct Contact,Kate,Tom
+Community,Direct Contact,Kate,Tim
+Community,Direct Contact,Kate,Owen
+Community,Direct Contact,Kate,Andy
+Community,Direct Contact,Tom,Kate
+Community,Direct Contact,Tom,Tim
+Community,Direct Contact,Tom,Owen
+Data+Women,Direct Contact,Anya,Donna
+Community,Direct Contact,Tom,Andy
+Community,Direct Contact,Tim,Tom
+Community,Direct Contact,Tim,Owen
+Community,Direct Contact,Tim,Andy
+Community,Direct Contact,Owen,Kate
+Community,Direct Contact,Owen,Tom
+Community,Direct Contact,Owen,Tim
+Community,Direct Contact,Owen,Andy
+Community,Direct Contact,Andy,Kate
+Community,Direct Contact,Andy,Tom
+Community,Direct Contact,Tim,Kate
+Data+Women,Direct Contact,Anya,Michael
+Data+Women,Direct Contact,Mo,Diana
+Data+Women,Direct Contact,Mo,Donna
+Desktop,Direct Contact,Lorna,Jared
+Desktop,Direct Contact,Lorna,Jenny
+User Groups,Direct Contact,Katie,Jenny
+Desktop,Direct Contact,Lorna,Sarah
+Desktop,Direct Contact,Sarah,Michael
+Desktop,Direct Contact,Sarah,Jared
+Desktop,Direct Contact,Sarah,Jenny
+Desktop,Direct Contact,Sarah,Lorna
+Data+Women,Direct Contact,Michael,Donna
+Data+Women,Direct Contact,Michael,Diana
+Data+Women,Direct Contact,Michael,Mo
+Data+Women,Direct Contact,Michael,Anya
+Data+Women,Direct Contact,Donna,Michael
+Data+Women,Direct Contact,Donna,Diana
+Data+Women,Direct Contact,Donna,Mo
+Data+Women,Direct Contact,Donna,Anya
+Data+Women,Direct Contact,Diana,Michael
+Data+Women,Direct Contact,Diana,Donna
+Data+Women,Direct Contact,Diana,Mo
+Data+Women,Direct Contact,Diana,Anya
+Data+Women,Direct Contact,Mo,Michael
+Community,Direct Contact,Andy,Tim
+Community,Direct Contact,Andy,Owen
+Data+Women,Direct Contact,Mo,Anya
+Desktop,Direct Contact,Beth,Ravi
+DataDev,Direct Contact,Mo,Owen
+DataDev,Direct Contact,Mo,Shahzad
+DataDev,Direct Contact,Mo,David
+DataDev,Direct Contact,Mo,Anya
+DataDev,Direct Contact,Anya,Owen
+DataDev,Direct Contact,Anya,Shahzad
+DataDev,Direct Contact,Anya,David
+DataDev,Direct Contact,Anya,Mo
+User Groups,Direct Contact,Will,Jenny
+User Groups,Direct Contact,Will,Katie
+User Groups,Direct Contact,Will,Sarah
+User Groups,Direct Contact,Michael,Will
+User Groups,Direct Contact,Michael,Jenny
+User Groups,Direct Contact,Michael,Katie
+User Groups,Direct Contact,Michael,Sarah
+User Groups,Direct Contact,Jenny,Will
+User Groups,Direct Contact,Jenny,Michael
+Desktop,Direct Contact,Beth,Mo
+User Groups,Direct Contact,Jenny,Katie
+User Groups,Direct Contact,Jenny,Sarah
+User Groups,Direct Contact,Katie,Will
+DataDev,Direct Contact,David,Anya
+DataDev,Direct Contact,David,Mo
+User Groups,Direct Contact,Will,Michael
+DataDev,Direct Contact,David,Owen
+Desktop,Direct Contact,John,Mo
+Desktop,Direct Contact,Arsene,Ravi
+Desktop,Direct Contact,John,Ravi
+DataDev,Direct Contact,David,Shahzad
+Desktop,Direct Contact,Mo,Beth
+Desktop,Direct Contact,Mo,Arsene
+Desktop,Direct Contact,Mo,John
+Desktop,Direct Contact,Mo,Ravi
+Desktop,Direct Contact,Ravi,Arsene
+Desktop,Direct Contact,Ravi,John
+Desktop,Direct Contact,Ravi,Mo
+Desktop,Direct Contact,Ravi,Beth
+DataDev,Direct Contact,Owen,Shahzad
+DataDev,Direct Contact,Owen,David
+DataDev,Direct Contact,Owen,Mo
+DataDev,Direct Contact,Owen,Anya
+DataDev,Direct Contact,Shahzad,Owen
+DataDev,Direct Contact,Shahzad,David
+Desktop,Direct Contact,Arsene,Mo
+DataDev,Direct Contact,Shahzad,Anya
+DataDev,Direct Contact,Shahzad,Mo
+Data+Women,Indirect Contact,Katie,Diana
+Data+Women,Indirect Contact,Katie,Michael
+Data+Women,Indirect Contact,Katie,Mo
+Data+Women,Indirect Contact,Katie,Anya
+Data+Women,Indirect Contact,Katie,Rosario
+Data+Women,Indirect Contact,Katie,Beth
+Data+Women,Indirect Contact,Katie,Tom
+Data+Women,Indirect Contact,Katie,Sarah
+Data+Women,Indirect Contact,Katie,Ravi
+Data+Women,Indirect Contact,Jonathan,Sarah
+Data+Women,Indirect Contact,Jenny,Rosario
+Data+Women,Indirect Contact,Jenny,Sarah
+Data+Women,Indirect Contact,Jenny,Tom
+Data+Women,Indirect Contact,Jenny,Ravi
+Data+Women,Indirect Contact,Jonathan,Michael
+Data+Women,Indirect Contact,Jonathan,Diana
+Data+Women,Indirect Contact,Jonathan,Mo
+Data+Women,Indirect Contact,Jonathan,Anya
+Data+Women,Indirect Contact,Jonathan,Tom
+Data+Women,Indirect Contact,Jonathan,Beth
+Data+Women,Indirect Contact,Jonathan,Rosario
+Data+Women,Indirect Contact,Jonathan,Ravi
+Prep,Indirect Contact,Ravi,Kate
+Prep,Indirect Contact,Ravi,Donna
+Prep,Indirect Contact,Ravi,Sarah
+Prep,Indirect Contact,Ravi,Jared
+Prep,Indirect Contact,Ravi,Jenny
+Prep,Indirect Contact,Kelly,David
+Prep,Indirect Contact,Kelly,Jenny
+Prep,Indirect Contact,Kelly,Will
+Prep,Indirect Contact,Kelly,Shahzad
+Prep,Indirect Contact,Kelly,Jonathan
+Prep,Indirect Contact,Kelly,John
+Prep,Indirect Contact,Kelly,Jared
+Data+Women,Indirect Contact,Jenny,Beth
+Server,Indirect Contact,Sarah,Kate
+Server,Indirect Contact,Sarah,Kelly
+Server,Indirect Contact,Sarah,Rosario
+Server,Indirect Contact,Sarah,Diana
+Server,Indirect Contact,Anya,Will
+Server,Indirect Contact,Sarah,Oscar
+Server,Indirect Contact,Anya,Tim
+Server,Indirect Contact,Anya,Rosario
+Server,Indirect Contact,Anya,Donna
+Server,Indirect Contact,Anya,Jonathan
+Server,Indirect Contact,Anya,Carl
+Server,Indirect Contact,Anya,Ravi
+Server,Indirect Contact,Sarah,Shahzad
+Server,Indirect Contact,Sarah,Carl
+Server,Indirect Contact,Lorna,Jonathan
+Server,Indirect Contact,Lorna,Will
+Server,Indirect Contact,Lorna,Ravi
+Server,Indirect Contact,Sarah,Tim
+Server,Indirect Contact,Sarah,Donna
+Server,Indirect Contact,Sarah,Jonathan
+Server,Indirect Contact,Anya,Shahzad
+Server,Indirect Contact,Anya,Diana
+Server,Indirect Contact,Anya,Kate
+Data+Women,Indirect Contact,Jared,Diana
+Data+Women,Indirect Contact,Jared,Mo
+Data+Women,Indirect Contact,Jared,Anya
+Data+Women,Indirect Contact,Jared,Michael
+Data+Women,Indirect Contact,Jared,Beth
+Data+Women,Indirect Contact,Jenny,Michael
+Data+Women,Indirect Contact,Jenny,Diana
+Data+Women,Indirect Contact,Jenny,Mo
+Data+Women,Indirect Contact,Jenny,Anya
+Server,Indirect Contact,Anya,Kelly
+Data+Women,Indirect Contact,Donna,Rosario
+Data+Women,Indirect Contact,Donna,Sarah
+Data+Women,Indirect Contact,Donna,Ravi
+Server,Indirect Contact,Anya,Oscar
+Prep,Indirect Contact,Carl,Kate
+Server,Indirect Contact,Will,Anya
+Server,Indirect Contact,Will,Lorna
+Server,Indirect Contact,Beth,Sarah
+Server,Indirect Contact,Beth,Ravi
+Server,Indirect Contact,Will,John
+DataDev,Indirect Contact,Sarah,Anya
+Server,Indirect Contact,Tom,Sarah
+Server,Indirect Contact,Tom,Ravi
+Server,Indirect Contact,Tom,John
+Server,Indirect Contact,Tom,Lorna
+Server,Indirect Contact,Tom,Anya
+Server,Indirect Contact,Beth,John
+DataDev,Indirect Contact,Sarah,Mo
+Server,Indirect Contact,Beth,Lorna
+Server,Indirect Contact,Beth,Anya
+Server,Indirect Contact,Kelly,Carl
+Server,Indirect Contact,Kelly,Oscar
+Server,Indirect Contact,Jared,Rosario
+Server,Indirect Contact,Jared,Lorna
+Server,Indirect Contact,Jared,Diana
+Server,Indirect Contact,Lorna,Donna
+Server,Indirect Contact,Kate,Carl
+Server,Indirect Contact,Kate,Oscar
+DataDev,Indirect Contact,Sarah,Shahzad
+Prep,Indirect Contact,Oscar,Shahzad
+Prep,Indirect Contact,Oscar,John
+Prep,Indirect Contact,Oscar,Will
+DataDev,Indirect Contact,Kate,Owen
+DataDev,Indirect Contact,Kate,Shahzad
+DataDev,Indirect Contact,Kate,Mo
+DataDev,Indirect Contact,Kate,Anya
+Prep,Indirect Contact,Oscar,Sarah
+Prep,Indirect Contact,Carl,Donna
+Prep,Indirect Contact,Carl,Sarah
+Prep,Indirect Contact,Carl,Will
+Prep,Indirect Contact,Carl,Shahzad
+Prep,Indirect Contact,Carl,John
+Prep,Indirect Contact,Oscar,Kate
+Prep,Indirect Contact,Oscar,Donna
+DataDev,Indirect Contact,Sarah,Owen
+DataDev,Indirect Contact,Lorna,Owen
+DataDev,Indirect Contact,Lorna,Shahzad
+DataDev,Indirect Contact,Lorna,Mo
+DataDev,Indirect Contact,Lorna,Anya
+DataDev,Indirect Contact,Jared,Owen
+DataDev,Indirect Contact,Jared,Shahzad
+DataDev,Indirect Contact,Jared,Mo
+DataDev,Indirect Contact,Jared,Anya
+Prep,Indirect Contact,Rosario,Carl
+Prep,Indirect Contact,Rosario,Jared
+Prep,Indirect Contact,Rosario,Oscar
+Prep,Indirect Contact,Rosario,Will
+Prep,Indirect Contact,Rosario,Shahzad
+Prep,Indirect Contact,Rosario,John
+Prep,Indirect Contact,Rosario,Ravi
+User Groups,Indirect Contact,Sarah,Jonathan
+User Groups,Indirect Contact,Sarah,Vani
+User Groups,Indirect Contact,Sarah,Jack
+User Groups,Indirect Contact,Anya,Will
+User Groups,Indirect Contact,Anya,Jenny
+User Groups,Indirect Contact,Anya,Katie
+User Groups,Indirect Contact,Anya,Jonathan
+User Groups,Indirect Contact,Anya,Vani
+User Groups,Indirect Contact,Anya,Jack
+Prep,Indirect Contact,Andy,Carl
+Prep,Indirect Contact,Andy,Oscar
+Prep,Indirect Contact,Andy,Will
+Prep,Indirect Contact,Andy,Shahzad
+Prep,Indirect Contact,Andy,John
+Prep,Indirect Contact,Andy,Ravi
+Prep,Indirect Contact,Andy,Jared
+Prep,Indirect Contact,Jenny,Will
+Prep,Indirect Contact,Jenny,Shahzad
+Prep,Indirect Contact,Jenny,John
+Prep,Indirect Contact,Jenny,Ravi
+DataDev,Indirect Contact,Beth,Mo
+DataDev,Indirect Contact,Beth,Anya
+DataDev,Indirect Contact,Beth,Michael
+DataDev,Indirect Contact,Beth,Jonathan
+DataDev,Indirect Contact,Beth,David
+DataDev,Indirect Contact,Shahzad,Andy
+DataDev,Indirect Contact,Kelly,Anya
+DataDev,Indirect Contact,Owen,Andy
+DataDev,Indirect Contact,Beth,Andy
+Server,Indirect Contact,Sarah,Mo
+User Groups,Indirect Contact,Tom,Will
+Server,Indirect Contact,Sarah,Kirk
+User Groups,Indirect Contact,Tom,Jenny
+User Groups,Indirect Contact,Tom,Katie
+User Groups,Indirect Contact,Tom,Jonathan
+User Groups,Indirect Contact,Tom,Vani
+User Groups,Indirect Contact,Tom,Jack
+Server,Indirect Contact,Sarah,Arsene
+Server,Indirect Contact,Will,Arsene
+Server,Indirect Contact,Will,Kirk
+Server,Indirect Contact,Will,Mo
+Server,Indirect Contact,Owen,Arsene
+Server,Indirect Contact,Owen,Kirk
+Server,Indirect Contact,Owen,Mo
+Server,Indirect Contact,Lorna,Tim
+Desktop,Indirect Contact,Andy,Beth
+Desktop,Indirect Contact,Andy,Arsene
+Desktop,Indirect Contact,Andy,John
+Desktop,Indirect Contact,Andy,Ravi
+Desktop,Indirect Contact,Mo,Will
+Desktop,Indirect Contact,Mo,Shahzad
+Desktop,Indirect Contact,Mo,Sarah
+Desktop,Indirect Contact,Mo,Kate
+Desktop,Indirect Contact,Mo,Tim
+Desktop,Indirect Contact,Mo,Diana
+Desktop,Indirect Contact,Mo,Anya
+Desktop,Indirect Contact,Mo,Kelly
+Desktop,Indirect Contact,Andy,Sarah
+Desktop,Indirect Contact,Andy,Kirk
+Desktop,Indirect Contact,Rosario,Ravi
+Desktop,Indirect Contact,Donna,Kate
+Desktop,Indirect Contact,Donna,Tim
+Desktop,Indirect Contact,Donna,Diana
+Desktop,Indirect Contact,Donna,Anya
+Desktop,Indirect Contact,Donna,Beth
+Desktop,Indirect Contact,Donna,Arsene
+Desktop,Indirect Contact,Donna,John
+Desktop,Indirect Contact,Donna,Ravi
+Desktop,Indirect Contact,Andy,Will
+Desktop,Indirect Contact,Andy,Jared
+Desktop,Indirect Contact,Andy,Shahzad
+Desktop,Indirect Contact,Andy,Kelly
+Server,Indirect Contact,Owen,Tim
+Desktop,Indirect Contact,Rosario,John
+Server,Indirect Contact,Owen,Rosario
+Server,Indirect Contact,Owen,Jonathan
+Server,Indirect Contact,John,Shahzad
+Server,Indirect Contact,John,Diana
+Server,Indirect Contact,John,Oscar
+Server,Indirect Contact,John,Kate
+Server,Indirect Contact,John,Kelly
+Server,Indirect Contact,John,Will
+Server,Indirect Contact,John,Carl
+Server,Indirect Contact,John,Ravi
+Server,Indirect Contact,Owen,Carl
+Server,Indirect Contact,Owen,Shahzad
+Server,Indirect Contact,Owen,Diana
+Server,Indirect Contact,Owen,Oscar
+Server,Indirect Contact,Owen,Kate
+Server,Indirect Contact,Owen,Kelly
+Server,Indirect Contact,Owen,Donna
+Desktop,Indirect Contact,Rosario,Arsene
+Data+Women,Indirect Contact,Tom,Diana
+Data+Women,Indirect Contact,Tom,Mo
+Data+Women,Indirect Contact,Michael,Rosario
+Data+Women,Indirect Contact,Michael,Jared
+Data+Women,Indirect Contact,Michael,Sarah
+Data+Women,Indirect Contact,Michael,Ravi
+Data+Women,Indirect Contact,Michael,Owen
+Data+Women,Indirect Contact,Michael,John
+Prep,Indirect Contact,Jack,Carl
+Prep,Indirect Contact,Jack,Jared
+Prep,Indirect Contact,Jack,Oscar
+Prep,Indirect Contact,Jack,Will
+Prep,Indirect Contact,Jack,Shahzad
+Prep,Indirect Contact,Jack,John
+Prep,Indirect Contact,Jack,Ravi
+Desktop,Indirect Contact,Rosario,Beth
+Data+Women,Indirect Contact,Beth,Anya
+Data+Women,Indirect Contact,Beth,Diana
+Data+Women,Indirect Contact,Beth,Mo
+Desktop,Indirect Contact,Rosario,Will
+Desktop,Indirect Contact,Rosario,Jared
+Desktop,Indirect Contact,Rosario,Shahzad
+Desktop,Indirect Contact,Rosario,Kelly
+Desktop,Indirect Contact,Rosario,Kirk
+Desktop,Indirect Contact,Rosario,Sarah
+Desktop,Indirect Contact,Rosario,Kate
+Desktop,Indirect Contact,Rosario,Tim
+Desktop,Indirect Contact,Rosario,Diana
+Desktop,Indirect Contact,Rosario,Anya
+Data+Women,Indirect Contact,Donna,Owen
+Data+Women,Indirect Contact,Donna,John
+Data+Women,Indirect Contact,Beth,Rosario
+Data+Women,Indirect Contact,Beth,Jared
+Data+Women,Indirect Contact,Beth,Sarah
+Data+Women,Indirect Contact,Beth,Ravi
+Data+Women,Indirect Contact,Beth,Owen
+Data+Women,Indirect Contact,Beth,John
+Server,Indirect Contact,Jared,Carl
+Server,Indirect Contact,Jared,Oscar
+Prep,Indirect Contact,Shahzad,Tom
+Prep,Indirect Contact,Shahzad,Beth
+Prep,Indirect Contact,Shahzad,Michael
+Prep,Indirect Contact,Vani,Will
+Prep,Indirect Contact,Vani,Jonathan
+Prep,Indirect Contact,Vani,John
+Prep,Indirect Contact,Owen,Michael
+Prep,Indirect Contact,Tim,Tom
+Prep,Indirect Contact,Tim,Beth
+Prep,Indirect Contact,Tim,Michael
+Prep,Indirect Contact,Owen,Will
+Prep,Indirect Contact,Owen,Jonathan
+Prep,Indirect Contact,Owen,John
+Prep,Indirect Contact,Owen,Ravi
+Prep,Indirect Contact,Owen,Tom
+Prep,Indirect Contact,Owen,Beth
+Prep,Indirect Contact,Vani,Ravi
+Desktop,Indirect Contact,Kate,Beth
+Desktop,Indirect Contact,Kate,John
+Desktop,Indirect Contact,Kate,Mo
+Desktop,Indirect Contact,Kate,Ravi
+Desktop,Indirect Contact,Kate,Kirk
+Desktop,Indirect Contact,Carl,Tim
+Desktop,Indirect Contact,Carl,Andy
+Desktop,Indirect Contact,Carl,Diana
+Desktop,Indirect Contact,Carl,Anya
+Prep,Indirect Contact,Vani,Tom
+Prep,Indirect Contact,Vani,Beth
+Prep,Indirect Contact,Vani,Michael
+Prep,Indirect Contact,Mo,Will
+Prep,Indirect Contact,Mo,Jonathan
+Prep,Indirect Contact,Mo,John
+Prep,Indirect Contact,Mo,Ravi
+Desktop,Indirect Contact,Carl,Beth
+Prep,Indirect Contact,Tim,John
+User Groups,Indirect Contact,Jonathan,Will
+User Groups,Indirect Contact,Jonathan,Jenny
+User Groups,Indirect Contact,Jonathan,Katie
+User Groups,Indirect Contact,Jonathan,Sarah
+User Groups,Indirect Contact,Jonathan,Tom
+User Groups,Indirect Contact,Jonathan,Anya
+User Groups,Indirect Contact,Jonathan,Tim
+User Groups,Indirect Contact,Jared,Will
+User Groups,Indirect Contact,Jared,Katie
+User Groups,Indirect Contact,Jared,Sarah
+User Groups,Indirect Contact,Jared,Vani
+User Groups,Indirect Contact,Jared,Tom
+User Groups,Indirect Contact,Jared,Anya
+Prep,Indirect Contact,Tim,Ravi
+DataDev,Indirect Contact,Jenny,Jonathan
+DataDev,Indirect Contact,Jenny,Andy
+DataDev,Indirect Contact,Jenny,Mo
+DataDev,Indirect Contact,Jenny,Owen
+DataDev,Indirect Contact,Jenny,Beth
+DataDev,Indirect Contact,Jenny,Shahzad
+Prep,Indirect Contact,Tim,Will
+Prep,Indirect Contact,Tim,Jonathan
+DataDev,Indirect Contact,Tom,Jonathan
+DataDev,Indirect Contact,Tom,Andy
+DataDev,Indirect Contact,Tom,Mo
+DataDev,Indirect Contact,Tom,Owen
+DataDev,Indirect Contact,Tom,Beth
+DataDev,Indirect Contact,Tom,Shahzad
+DataDev,Indirect Contact,Michael,Andy
+DataDev,Indirect Contact,Michael,Beth
+Desktop,Indirect Contact,Carl,Kirk
+Data+Women,Indirect Contact,Kate,Tom
+Data+Women,Indirect Contact,Kate,Owen
+Data+Women,Indirect Contact,Kate,Anya
+Data+Women,Indirect Contact,Kate,Michael
+Data+Women,Indirect Contact,Kate,Donna
+Data+Women,Indirect Contact,Kate,Diana
+Data+Women,Indirect Contact,Kelly,Tom
+Data+Women,Indirect Contact,Kelly,Owen
+Data+Women,Indirect Contact,Kelly,Anya
+Data+Women,Indirect Contact,Kelly,Michael
+Data+Women,Indirect Contact,Kelly,Donna
+Data+Women,Indirect Contact,Kelly,Diana
+User Groups,Indirect Contact,Jared,David
+User Groups,Indirect Contact,Jared,John
+User Groups,Indirect Contact,Jared,Kirk
+User Groups,Indirect Contact,Lorna,David
+User Groups,Indirect Contact,Lorna,John
+User Groups,Indirect Contact,Lorna,Kirk
+User Groups,Indirect Contact,Lorna,Tim
+User Groups,Indirect Contact,Lorna,Jack
+User Groups,Indirect Contact,Lorna,Jenny
+User Groups,Indirect Contact,Lorna,Kate
+User Groups,Indirect Contact,Lorna,Michael
+User Groups,Indirect Contact,Lorna,Rosario
+User Groups,Indirect Contact,Lorna,Jonathan
+Community,Indirect Contact,Jenny,Arsene
+Community,Indirect Contact,Jenny,Anya
+Community,Indirect Contact,Ravi,Arsene
+Community,Indirect Contact,Ravi,Anya
+Data+Women,Indirect Contact,John,Michael
+Data+Women,Indirect Contact,John,Donna
+Data+Women,Indirect Contact,John,Diana
+Data+Women,Indirect Contact,Mo,Tom
+Data+Women,Indirect Contact,Mo,Owen
+Desktop,Indirect Contact,Carl,John
+User Groups,Indirect Contact,Donna,Rosario
+Desktop,Indirect Contact,Jonathan,Tim
+Desktop,Indirect Contact,Jonathan,Andy
+Desktop,Indirect Contact,Jonathan,Diana
+Desktop,Indirect Contact,Jonathan,Anya
+Desktop,Indirect Contact,Jonathan,Mo
+Desktop,Indirect Contact,Jonathan,Ravi
+Desktop,Indirect Contact,Carl,Mo
+Desktop,Indirect Contact,Carl,Ravi
+Desktop,Indirect Contact,Arsene,Tim
+Desktop,Indirect Contact,Arsene,Andy
+Desktop,Indirect Contact,Arsene,Diana
+Desktop,Indirect Contact,Arsene,Anya
+User Groups,Indirect Contact,Donna,Jonathan
+User Groups,Indirect Contact,Owen,David
+User Groups,Indirect Contact,Owen,John
+User Groups,Indirect Contact,Owen,Kirk
+User Groups,Indirect Contact,Owen,Tim
+User Groups,Indirect Contact,Owen,Jack
+User Groups,Indirect Contact,Owen,Jenny
+User Groups,Indirect Contact,Owen,Kate
+User Groups,Indirect Contact,Owen,Michael
+User Groups,Indirect Contact,Owen,Rosario
+User Groups,Indirect Contact,Donna,Tim
+User Groups,Indirect Contact,Donna,Jack
+User Groups,Indirect Contact,Donna,Jenny
+User Groups,Indirect Contact,Donna,Kate
+User Groups,Indirect Contact,Donna,Michael
+User Groups,Indirect Contact,Owen,Jonathan
+Desktop,Indirect Contact,David,Kirk
+Desktop,Indirect Contact,David,John
+Desktop,Indirect Contact,David,Tim
+Desktop,Indirect Contact,David,Andy
+Desktop,Indirect Contact,David,Diana
+Desktop,Indirect Contact,David,Anya
+Desktop,Indirect Contact,David,Beth
+Desktop,Indirect Contact,David,Mo
+Desktop,Indirect Contact,David,Ravi
+User Groups,Indirect Contact,Rosario,Jack
+Community,Indirect Contact,Sarah,Beth
+Community,Indirect Contact,Sarah,Diana
+Community,Indirect Contact,Sarah,Mo
+Community,Indirect Contact,Sarah,Anya
+Community,Indirect Contact,Sarah,Kate
+Community,Indirect Contact,Sarah,Tom
+Community,Indirect Contact,Sarah,Tim
+Community,Indirect Contact,Owen,Rosario
+Community,Indirect Contact,Owen,Jonathan
+Community,Indirect Contact,Owen,Vani
+Community,Indirect Contact,Andy,Beth
+Community,Indirect Contact,Andy,Diana
+Community,Indirect Contact,Andy,Mo
+Community,Indirect Contact,Andy,Anya
+Community,Indirect Contact,Owen,Anya
+Community,Indirect Contact,Sarah,Jonathan
+Desktop,Indirect Contact,Jared,Beth
+Desktop,Indirect Contact,Jared,Arsene
+Desktop,Indirect Contact,Jared,John
+Desktop,Indirect Contact,Jared,Ravi
+Desktop,Indirect Contact,Jared,Rosario
+Desktop,Indirect Contact,Jared,Andy
+Community,Indirect Contact,John,Vani
+Community,Indirect Contact,John,Jonathan
+Community,Indirect Contact,John,Rosario
+Community,Indirect Contact,Sarah,Vani
+Community,Indirect Contact,John,Beth
+Community,Indirect Contact,John,Diana
+Community,Indirect Contact,John,Mo
+Community,Indirect Contact,John,Anya
+Community,Indirect Contact,John,Kate
+Community,Indirect Contact,John,Tom
+Community,Indirect Contact,John,Tim
+Community,Indirect Contact,Sarah,Rosario
+Community,Indirect Contact,Owen,Mo
+Community,Indirect Contact,Owen,Beth
+Server,Indirect Contact,David,Diana
+Server,Indirect Contact,David,Lorna
+Server,Indirect Contact,David,Rosario
+Server,Indirect Contact,David,Carl
+Server,Indirect Contact,David,Oscar
+Server,Indirect Contact,Shahzad,Rosario
+Community,Indirect Contact,Kelly,Will
+Community,Indirect Contact,Owen,Diana
+Community,Indirect Contact,Kelly,Beth
+Community,Indirect Contact,Kelly,Mo
+Community,Indirect Contact,Will,Kate
+Community,Indirect Contact,Will,Tom
+Community,Indirect Contact,Will,Tim
+Community,Indirect Contact,Will,Jonathan
+Community,Indirect Contact,Will,Vani
+Community,Indirect Contact,Will,Rosario
+Community,Indirect Contact,Jack,Mo
+Community,Indirect Contact,Jack,Diana
+Community,Indirect Contact,Jack,Beth
+Community,Indirect Contact,Arsene,Will
+Community,Indirect Contact,Arsene,Beth
+Community,Indirect Contact,Arsene,Diana
+Community,Indirect Contact,Arsene,Mo
+Community,Indirect Contact,Jack,Will
+Community,Indirect Contact,Kelly,Diana
+User Groups,Indirect Contact,Rosario,Vani
+Desktop,Indirect Contact,Kirk,Andy
+Desktop,Indirect Contact,Kirk,Michael
+Desktop,Indirect Contact,Kirk,Jenny
+User Groups,Indirect Contact,Kate,Will
+User Groups,Indirect Contact,Kate,Jenny
+User Groups,Indirect Contact,Kate,Katie
+User Groups,Indirect Contact,Kate,Sarah
+User Groups,Indirect Contact,Kate,Vani
+User Groups,Indirect Contact,Kate,Jack
+User Groups,Indirect Contact,Kate,Tom
+User Groups,Indirect Contact,Kate,Anya
+Desktop,Indirect Contact,Kirk,Rosario
+Desktop,Indirect Contact,Kirk,Ravi
+Desktop,Indirect Contact,Lorna,Jonathan
+Desktop,Indirect Contact,Lorna,John
+Desktop,Indirect Contact,Lorna,Will
+Desktop,Indirect Contact,Lorna,Donna
+Desktop,Indirect Contact,Lorna,Shahzad
+Desktop,Indirect Contact,Lorna,Kelly
+Desktop,Indirect Contact,Lorna,Arsene
+User Groups,Indirect Contact,Rosario,Will
+User Groups,Indirect Contact,Rosario,Jenny
+User Groups,Indirect Contact,Rosario,Katie
+User Groups,Indirect Contact,Rosario,Sarah
+User Groups,Indirect Contact,Rosario,Anya
+User Groups,Indirect Contact,Rosario,Tim
+User Groups,Indirect Contact,Rosario,Tom
+User Groups,Indirect Contact,Kate,Tim
+User Groups,Indirect Contact,Michael,Tim
+Desktop,Indirect Contact,Jared,Jonathan
+Desktop,Indirect Contact,Lorna,Beth
+Desktop,Indirect Contact,Mo,Jonathan
+Desktop,Indirect Contact,Katie,Michael
+Desktop,Indirect Contact,Katie,Jenny
+Desktop,Indirect Contact,Katie,Sarah
+Desktop,Indirect Contact,Katie,Will
+Desktop,Indirect Contact,Katie,Donna
+Desktop,Indirect Contact,Katie,Shahzad
+Desktop,Indirect Contact,Mo,Jenny
+Desktop,Indirect Contact,Jared,Kelly
+Desktop,Indirect Contact,Mo,Michael
+Desktop,Indirect Contact,Lorna,Ravi
+Desktop,Indirect Contact,Lorna,Rosario
+Desktop,Indirect Contact,Lorna,Andy
+Desktop,Indirect Contact,Katie,Kelly
+Desktop,Indirect Contact,Katie,Beth
+Desktop,Indirect Contact,Katie,Arsene
+Desktop,Indirect Contact,Katie,John
+Desktop,Indirect Contact,Katie,Ravi
+Desktop,Indirect Contact,Katie,Rosario
+Desktop,Indirect Contact,Katie,Andy
+Desktop,Indirect Contact,Katie,Jonathan
+DataDev,Indirect Contact,Kelly,David
+Desktop,Indirect Contact,Ravi,Jonathan
+Desktop,Indirect Contact,Ravi,Kirk
+DataDev,Indirect Contact,Anya,Kelly
+DataDev,Indirect Contact,Anya,Jonathan
+DataDev,Indirect Contact,Anya,Andy
+User Groups,Indirect Contact,Will,Tim
+User Groups,Indirect Contact,Will,Jared
+User Groups,Indirect Contact,Will,Jack
+DataDev,Indirect Contact,David,Kelly
+DataDev,Indirect Contact,David,Jonathan
+DataDev,Indirect Contact,David,Andy
+Prep,Indirect Contact,Jared,Will
+Prep,Indirect Contact,Jared,Shahzad
+Prep,Indirect Contact,Jared,John
+Prep,Indirect Contact,Jared,Ravi
+Desktop,Indirect Contact,Kelly,Will
+Desktop,Indirect Contact,Kelly,Jared
+Community,Indirect Contact,Vani,Kate
+Community,Indirect Contact,Vani,Tom
+Community,Indirect Contact,Vani,Tim
+Community,Indirect Contact,Vani,Owen
+Desktop,Indirect Contact,Kelly,Beth
+Desktop,Indirect Contact,Donna,Michael
+Desktop,Indirect Contact,Donna,Jenny
+Desktop,Indirect Contact,Donna,Lorna
+Desktop,Indirect Contact,Donna,Jonathan
+Desktop,Indirect Contact,Shahzad,Beth
+Desktop,Indirect Contact,Kelly,Arsene
+Desktop,Indirect Contact,Kelly,Jonathan
+Desktop,Indirect Contact,Kelly,John
+Desktop,Indirect Contact,Kelly,Michael
+Desktop,Indirect Contact,Kelly,Jenny
+Desktop,Indirect Contact,Kelly,Lorna
+Desktop,Indirect Contact,Shahzad,Arsene
+Community,Indirect Contact,Jonathan,Tim
+Data+Women,Indirect Contact,Anya,Ravi
+Data+Women,Indirect Contact,Anya,Sarah
+Data+Women,Indirect Contact,Anya,Jared
+Data+Women,Indirect Contact,Anya,Rosario
+Data+Women,Indirect Contact,Owen,Sarah
+Data+Women,Indirect Contact,Owen,Ravi
+Data+Women,Indirect Contact,Owen,Michael
+Data+Women,Indirect Contact,Owen,Donna
+Data+Women,Indirect Contact,Owen,Diana
+Data+Women,Indirect Contact,Owen,Mo
+Data+Women,Indirect Contact,John,Rosario
+Data+Women,Indirect Contact,John,Jared
+Data+Women,Indirect Contact,John,Sarah
+Data+Women,Indirect Contact,John,Ravi
+Community,Indirect Contact,Jonathan,Owen
+Community,Indirect Contact,Rosario,Tom
+Community,Indirect Contact,Rosario,Tim
+Community,Indirect Contact,Rosario,Owen
+Community,Indirect Contact,Jonathan,Kate
+Community,Indirect Contact,Jonathan,Tom
+Community,Indirect Contact,Rosario,Kate
+Data+Women,Indirect Contact,Owen,Jared
+Desktop,Indirect Contact,Shahzad,Jonathan
+Server,Indirect Contact,Rosario,Carl
+Server,Indirect Contact,Rosario,Shahzad
+Server,Indirect Contact,Rosario,Oscar
+Server,Indirect Contact,Kelly,Tim
+Server,Indirect Contact,Kelly,Donna
+Server,Indirect Contact,Kelly,Jonathan
+Server,Indirect Contact,Kelly,John
+Server,Indirect Contact,Kate,John
+Server,Indirect Contact,Diana,Tim
+Server,Indirect Contact,Diana,Donna
+Server,Indirect Contact,Diana,Jonathan
+Server,Indirect Contact,Diana,John
+Desktop,Indirect Contact,Shahzad,John
+Server,Indirect Contact,Kate,Jonathan
+Server,Indirect Contact,Kate,Tim
+Desktop,Indirect Contact,Sarah,Will
+Desktop,Indirect Contact,Sarah,Beth
+Desktop,Indirect Contact,Sarah,Arsene
+Desktop,Indirect Contact,Shahzad,Michael
+Desktop,Indirect Contact,Shahzad,Jenny
+Desktop,Indirect Contact,Shahzad,Lorna
+Desktop,Indirect Contact,Sarah,Jonathan
+Server,Indirect Contact,Kate,Donna
+Desktop,Indirect Contact,Sarah,John
+User Groups,Indirect Contact,Vani,Katie
+User Groups,Indirect Contact,Vani,Sarah
+User Groups,Indirect Contact,Vani,Tim
+User Groups,Indirect Contact,Vani,Jared
+User Groups,Indirect Contact,Vani,Jenny
+User Groups,Indirect Contact,Jack,Will
+User Groups,Indirect Contact,Jack,Katie
+User Groups,Indirect Contact,Jack,Sarah
+User Groups,Indirect Contact,Vani,Will
+Data+Women,Indirect Contact,Owen,Rosario
+Prep,Indirect Contact,David,Kate
+Prep,Indirect Contact,David,Kelly
+Prep,Indirect Contact,David,Donna
+Prep,Indirect Contact,David,Sarah
+Prep,Indirect Contact,David,Will
+Prep,Indirect Contact,David,Shahzad
+Prep,Indirect Contact,David,Jonathan
+Prep,Indirect Contact,David,John
+Prep,Indirect Contact,David,Jared
+Prep,Indirect Contact,David,Jenny
+Prep,Indirect Contact,Diana,Jenny
+Prep,Indirect Contact,Diana,Jonathan
+Prep,Indirect Contact,Diana,Jared
+Prep,Indirect Contact,Diana,Will
+Prep,Indirect Contact,Diana,Shahzad
+Prep,Indirect Contact,Diana,John
+User Groups,Indirect Contact,Katie,Tim
+User Groups,Indirect Contact,Katie,Jared
+User Groups,Indirect Contact,Katie,Jack
+User Groups,Indirect Contact,Sarah,Tim
+User Groups,Indirect Contact,Sarah,Jared
+Desktop,Indirect Contact,Will,Michael
+Desktop,Indirect Contact,Will,Jenny
+Desktop,Indirect Contact,Will,Lorna
+Desktop,Indirect Contact,Will,Sarah
+Desktop,Indirect Contact,Will,Beth
+Desktop,Indirect Contact,Will,Arsene
+Desktop,Indirect Contact,Will,Jonathan
+Desktop,Indirect Contact,Will,John
+DataDev,Indirect Contact,Michael,Anya
+DataDev,Indirect Contact,Michael,David
+DataDev,Indirect Contact,Jonathan,David
+DataDev,Indirect Contact,Jonathan,Anya
