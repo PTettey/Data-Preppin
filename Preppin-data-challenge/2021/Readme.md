@@ -63,7 +63,7 @@
  
   <tr>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2042/WK42-Charity%20fundraising.ipynb">Week 42</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2043/WK43-Is%20that%20the%20case.ipynb">Week 43</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
