@@ -138,7 +138,7 @@ Named Aggregation
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2023/WK23-NPS%20for%20Airlines.ipynb">W23</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2028/WK28-Its%20coming%20Rome.ipynb">W28</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2033/Week%20-%2033/WK33-Excelling%20at%20adding%20one%20more%20row.ipynb">W33</a>&nbsp;&nbsp;&nbsp;
-      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2046/WK46-Book%20Shop%20Data%20Modelling.ipynb">W46</a>&nbsp;&nbsp;&nbsp;
       <a href=" "> </a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2003/WK3-Passing%20Grades.ipynb">W03</a>&nbsp;&nbsp;&nbsp;
@@ -417,6 +417,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2033/WK33-Excelling%20at%20adding%20one%20more%20row.ipynb">W33</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2043/WK43-Is%20that%20the%20case.ipynb">W43</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2045/WK45-Spread%20the%20Knowledge%20for%20TC.ipynb">W45</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2046/WK46-Book%20Shop%20Data%20Modelling.ipynb">W46</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
@@ -450,6 +451,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2034/WK34-Excelling%20with%20lookups.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2035/WK35-Picture%20Perfect.ipynb">W35</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2036/WK36-What's%20Trendy.ipynb">W36</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2046/WK46-Book%20Shop%20Data%20Modelling.ipynb">W46</a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2003/WK3-Passing%20Grades.ipynb">W03</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2007/WK7-Call%20Center%20Agent%20Metrics.ipynb">W07</a>&nbsp;&nbsp;&nbsp;
@@ -532,6 +534,7 @@ With ExcelFiles (dynamic sheets)
     <td>
       <b>2021:</b>&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2045/WK45-Spread%20the%20Knowledge%20for%20TC.ipynb">W45</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2046/WK46-Book%20Shop%20Data%20Modelling.ipynb">W46</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
@@ -957,6 +960,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2014/WK14-Air%20In-Flight%20Purchases.ipynb">W14</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2028/WK28-Its%20coming%20Rome.ipynb">W28</a>&nbsp;&nbsp;&nbsp;</span>
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2034/WK34-Excelling%20with%20lookups.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2046/WK46-Book%20Shop%20Data%20Modelling.ipynb">W46</a>&nbsp;&nbsp;&nbsp;
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <b>2022:</b>&nbsp;
