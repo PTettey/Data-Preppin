@@ -102,6 +102,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2014/Wk14_Air_In_flight_purchases.pgsql">Week 14</a></td>
     <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
+ 
   <tr>
    <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=""></a></td>
@@ -112,6 +113,7 @@
     <td><a href=""></a></td>
     <td><a href=""></a></td>
   </tr>
+  
   <tr>
    <td><a href=""></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=""></a></td>
@@ -122,6 +124,7 @@
     <td><a href=""></a></td>
     <td><a href=""></a></td>
   </tr>
+  
   <tr>
     <td><a href=""></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=""></a></td>
@@ -132,6 +135,7 @@
     <td><a href=""></a></td>
     <td><a href=""></a></td>
   </tr>
+  
   <tr>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
@@ -142,6 +146,7 @@
     <td><a href=""></a></td>
     <td><a href=""></a></td>
   </tr>
+  
   <tr>
     <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=" "> </a></td>
@@ -152,6 +157,7 @@
     <td><a href=" "> </a></td>
     <td></td>
   </tr>
+  
   <tr>
     <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=" "> </a></td>
@@ -224,9 +230,10 @@
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
-   <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
     <td></td>
   </tr>
+  
   <tr>
     <td><a href=" "></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=" "> </a></td>
@@ -239,6 +246,7 @@
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
   </tr>
+  
   <tr>
     <td><a href=" "></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=" "> </a></td>
@@ -251,6 +259,7 @@
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
   </tr>
+  
   <tr>
     <td><a href=" "></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=" "> </a></td>
