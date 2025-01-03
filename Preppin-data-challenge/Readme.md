@@ -68,7 +68,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2046/WK46-Book%20Shop%20Data%20Modelling.ipynb">Week 46</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2047/WK47-Games%20Night%20Viz%20Collab.ipynb">Week 47</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2048/WK48-Departmental%20December-Finance.ipynb">Week 48</a></td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2049/WK49-Departmental%20December%20Human%20Resource.ipynb">Week 49</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
   </tr>
