@@ -272,6 +272,10 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
 ```dt.strftime``` / ```dt.strptime```
     </td>
     <td>
+      <b>2021:</b>&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2049/WK49-Departmental%20December%20Human%20Resource.ipynb">W49</a>&nbsp;&nbsp;&nbsp
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp
       <b>2022:</b>&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2002/WK2-Birthday%20Cakes.ipynb">W02</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
@@ -536,7 +540,7 @@ With ExcelFiles (dynamic sheets)
       <b>2021:</b>&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2045/WK45-Spread%20the%20Knowledge%20for%20TC.ipynb">W45</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2046/WK46-Book%20Shop%20Data%20Modelling.ipynb">W46</a>&nbsp;&nbsp;&nbsp;
-      <a href=" "></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2050/WK50-Departmental%20December%20Sales.ipynb">W50</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2001/WK1-Parental%20Contact%20Details.ipynb">W01</a>&nbsp;&nbsp;&nbsp;
