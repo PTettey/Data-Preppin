@@ -39,7 +39,7 @@
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2022/WK22-Answer%20Smash.ipynb">Week 22</a></td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2023/WK23-NPS%20for%20Airlines.ipynb">Week 23</a></td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2024/WK24-C%26BS%20Co%20Absence%20Monitoring.ipynb">Week 24</a></td>
-   <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2026/WK26-Rolling%20Weekly%20Revenue.ipynb">Week 26</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2026/WK26-Rolling%20Weekly%20Revenue.ipynb">Week 26</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2027/WK27-NBA%20Draft%20Lottery%20calculator.ipynb">Week 27</a></td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2028/WK28-Its%20coming%20Rome.ipynb">Week 28</a></td>
     <td><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2029/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">Week 29</a></td>
@@ -72,6 +72,7 @@
     <td><a href=" "> </a></td>
     <td></td>
   </tr>
+  
   <tr>
     <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=" "> </a></td>
@@ -90,7 +91,7 @@
 ### PostgreSQL Solution
 <table>
   <tr>
-    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2001/wk1_bike_sales.pgsql">Week 1</a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2001/wk1_bike_sales.pgsql">Week 1</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2002/Wk2_bike_model_sales.pgsql">Week 2</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2003/WK3_bike_accessory_sales.pgsql">Week 3</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2004/Wk4_sales_target.pgsql">Week 4</a></td>
@@ -98,9 +99,11 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2006/Wk6_prize_money.pgsql">Week 6</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2007/vegan_list.pgsql">Week 7</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2013/Wk13_Premier_League_Statistics.pgsql">Week 13</a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2014/Wk14_Air_In_flight_purchases.pgsql">Week 14</a></td>
+    <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2014/Wk14_Air_In_flight_purchases.pgsql">Week 14</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+   <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
@@ -184,6 +187,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2009/WK9-Customer%20Classifications.ipynb">Week 9</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2010/WK10-The%20Bechdel%20Test.ipynb">Week 10</a></td>
   </tr>
+ 
   <tr>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2011/WK11-Filling%20the%20Blanks.ipynb">Week 11</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2012/WK12-Gender%20Pay%20Gap%20Bot.ipynb">Week 12</a></td>
@@ -196,6 +200,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2019/WK19-C%26BSCo%20Good%20Sales%20but%20Wrong%20Sizes.ipynb">Week 19</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2020/WK20-TC22%20Session%20Attendance.ipynb">Week 20</a></td>
   </tr>
+  
   <tr>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2021/WK21-Multi%20sheets%20of%20madness.ipynb">Week 21</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2022/WK22-Dungeons%20%26%20Dragons%20Critical%20Role.ipynb">Week 22</a></td>
@@ -208,10 +213,11 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2029/WK29-C%26BSCo%20Meeting%20Targets.ipynb">Week 29</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2030/WK30-C%26BSCo%20Actual%20Sales%20Values.ipynb">Week 30</a></td>
   </tr>
+  
   <tr>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2031/WK31-C%26BSCo%20Preppin%20Parameters.ipynb">Week 31</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2032/WK32-C%26BSCo%20Mortgage%20Repayments.ipynb">Week 32 </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2033/WK33-C%26BSCo%20Next%20Sale.ipynb">Week 33</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2032/WK32-C%26BSCo%20Mortgage%20Repayments.ipynb">Week 32 </a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2033/WK33-C%26BSCo%20Next%20Sale.ipynb">Week 33</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
