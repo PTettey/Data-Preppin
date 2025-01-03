@@ -191,7 +191,6 @@
 
 
 ### 2022 Challenge List
-
 <table>
   <tr>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2001/WK1-Parental%20Contact%20Details.ipynb">Week 1</a></td>
@@ -243,6 +242,18 @@
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
+  </tr>
+  
+  <tr>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
   </tr>
   
@@ -257,25 +268,9 @@
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
   </tr>
   
   <tr>
-    <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
-  </tr>
-  
-  <tr>
-    <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
