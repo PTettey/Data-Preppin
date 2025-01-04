@@ -70,7 +70,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2048/WK48-Departmental%20December-Finance.ipynb">Week 48</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2049/WK49-Departmental%20December%20Human%20Resource.ipynb">Week 49</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2050/WK50-Departmental%20December%20Sales.ipynb">Week 50</a></td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2051/WK51-Departmental%20December%20IT.ipynb">Week 51</a></td>
   </tr>
   
   <tr>
