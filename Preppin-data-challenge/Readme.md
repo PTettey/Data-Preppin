@@ -74,7 +74,7 @@
   </tr>
   
   <tr>
-    <td><a href=" "> </a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2052/WK52-Departmental%20December%20Operations.ipynb">Week 52</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
