@@ -235,7 +235,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2031/WK31-C%26BSCo%20Preppin%20Parameters.ipynb">Week 31</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2032/WK32-C%26BSCo%20Mortgage%20Repayments.ipynb">Week 32</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2033/WK33-C%26BSCo%20Next%20Sale.ipynb">Week 33</a></td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2034/WK34-C%26BSCo%20Parameters%2C%20Parameters%2C%20Parameters.ipynb">Week 34</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
