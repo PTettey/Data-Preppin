@@ -88,6 +88,8 @@ user input
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2013/WK13-Pareto%20Parameters.ipynb">W13</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2031/WK31-C%26BSCo%20Preppin%20Parameters.ipynb">W31</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2034/WK34-C%26BSCo%20Parameters%2C%20Parameters%2C%20Parameters.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2035/WK35-C%26BSCo%20Summary%20Stats.ipynb">W35</a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr> 
@@ -413,6 +415,7 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2020/WK20-TC22%20Session%20Attendance.ipynb">W20</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2023/WK23-PD%20x%20WOW%20Salesforce%20Opportunities.ipynb">W23</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2030/WK30-C%26BSCo%20Actual%20Sales%20Values.ipynb">W30</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2035/WK35-C%26BSCo%20Summary%20Stats.ipynb">W35</a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
@@ -765,6 +768,15 @@ With ExcelFiles (dynamic sheets)
     <td></td>
     <td>
 
+```split```
+    </td>
+    <td>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2035/WK35-C%26BSCo%20Summary%20Stats.ipynb">W35</a>&nbsp;&nbsp;&nbsp;
+      <a href=" "> </a>&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+
 ```stack```
     </td>
     <td>
@@ -853,6 +865,8 @@ With ExcelFiles (dynamic sheets)
       <span><a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2030/WK30-Lift%20Your%20Spirits.ipynb">W30</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2036/WK36-What's%20Trendy.ipynb">W36</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
+      <b>2022:</b>&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2035/WK35-C%26BSCo%20Summary%20Stats.ipynb">W35</a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
@@ -951,6 +965,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2017/WK17-The%20Price%20of%20Streaming.ipynb">W17</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2018/WK18-Un-pivoting.ipynb">W18</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2019/WK19-C%26BSCo%20Good%20Sales%20but%20Wrong%20Sizes.ipynb">W19</a>&nbsp;&nbsp;&nbsp;</span>
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2035/WK35-C%26BSCo%20Summary%20Stats.ipynb">W35</a>&nbsp;&nbsp;&nbsp;
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
