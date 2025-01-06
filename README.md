@@ -226,7 +226,7 @@ Dateparts (```dt.month```, ```dt.quarter```, etc.)
       <b>2021:</b>&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2001/WK1-Bike%20Sales.ipynb">W01</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2002/WK2-Bike%20Model%20Sales.ipynb">W02</a>&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2015/WK15-Restaurant%20Menu%20and%20Orders.ipynb">W15</a>&nbsp;&nbsp;&nbsp;         
+      <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2015/WK15-Restaurant%20Menu%20and%20Orders.ipynb">W15</a>&nbsp;&nbsp;&nbsp; 
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2029/WK29-PDxWOW%20-%20Tokyo%202020%20Calendar.ipynb">W29</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2021/Week%20-%2032/WK32-Excelling%20through%20aggregation.ipynb">W32</a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
