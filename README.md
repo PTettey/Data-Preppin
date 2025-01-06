@@ -87,6 +87,8 @@ user input
       <b>2022:</b>&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2013/WK13-Pareto%20Parameters.ipynb">W13</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2031/WK31-C%26BSCo%20Preppin%20Parameters.ipynb">W31</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2034/WK34-C%26BSCo%20Parameters%2C%20Parameters%2C%20Parameters.ipynb">W34</a>&nbsp;&nbsp;&nbsp;
+      <a href=" "></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr> 
    
