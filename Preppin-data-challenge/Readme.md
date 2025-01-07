@@ -238,7 +238,7 @@
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2034/WK34-C%26BSCo%20Parameters%2C%20Parameters%2C%20Parameters.ipynb">Week 34</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2035/WK35-C%26BSCo%20Summary%20Stats.ipynb">Week 35</a></td>
     <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2036/WK36-Calendar%20Conundrum.ipynb">Week 36</a></td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2037/WK37-Elden%20Ring%20Adventure.ipynb">Week 37</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
