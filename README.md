@@ -708,6 +708,10 @@ With ExcelFiles (dynamic sheets)
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2018/WK18-Un-pivoting.ipynb">W18</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2020/WK20-TC22%20Session%20Attendance.ipynb">W20</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2030/WK30-C%26BSCo%20Actual%20Sales%20Values.ipynb">W30</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2037/WK37-Elden%20Ring%20Adventure.ipynb">W37</a>&nbsp;&nbsp;&nbsp;
+      <a href=" "> </a>&nbsp;&nbsp;&nbsp;
+      <a href=" "> </a>&nbsp;&nbsp;&nbsp;
+      <a href=" "> </a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   
@@ -760,6 +764,7 @@ With ExcelFiles (dynamic sheets)
       <b>2022:</b>&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2015/WK15-Property%20Management.ipynb">W15</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2026/WK26-Making%20Spotify%20Data%20Spotless.ipynb">W26</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2037/WK37-Elden%20Ring%20Adventure.ipynb">W37</a>&nbsp;&nbsp;&nbsp;
       <a href=" "></a>&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
@@ -926,6 +931,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <b>2022:</b>&nbsp;
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2014/WK14-House%20of%20Games%20Winners.ipynb">W14</a>&nbsp;&nbsp;&nbsp;</span>
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2023/WK23-PD%20x%20WOW%20Salesforce%20Opportunities.ipynb">W23</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2037/WK37-Elden%20Ring%20Adventure.ipynb">W37</a>&nbsp;&nbsp;&nbsp;
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
@@ -970,6 +976,7 @@ Changing case (```upper```, ```lower```, ```title```, etc.)
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2018/WK18-Un-pivoting.ipynb">W18</a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2019/WK19-C%26BSCo%20Good%20Sales%20but%20Wrong%20Sizes.ipynb">W19</a>&nbsp;&nbsp;&nbsp;</span>
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2035/WK35-C%26BSCo%20Summary%20Stats.ipynb">W35</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2037/WK37-Elden%20Ring%20Adventure.ipynb">W37</a>&nbsp;&nbsp;&nbsp;
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
       <span><a href=" "></a>&nbsp;&nbsp;&nbsp;</span>
     </td>
