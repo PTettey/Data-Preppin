@@ -105,6 +105,10 @@ user input
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2010/WK10-Pokemon%20Hierarchies.ipynb">W10</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2011/WK11-Cocktails.ipynb">W11</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Prepping/blob/main/Preppin-data-challenge/2021/Week%20-%2024/WK24-C%26BS%20Co%20Absence%20Monitoring.ipynb">W24</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2038/WK38-Salesforce%20Standard%20Connections%20for%20Dreamforce22.ipynb">W38</a>&nbsp;&nbsp;&nbsp;
+      <a href=" "> </a>&nbsp;&nbsp;&nbsp;
+      <a href=" "> </a>&nbsp;&nbsp;&nbsp;
+      <a href=" "> </a>&nbsp;&nbsp;&nbsp;
       <b>2022:</b>&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2008/WK8-PokeMOn%20Evolution%20Stats.ipynb">W08</a>&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/PTettey/Data-Preppin/blob/main/Preppin-data-challenge/2022/Week%20-%2010/WK10-The%20Bechdel%20Test.ipynb">W10</a>&nbsp;&nbsp;&nbsp;
